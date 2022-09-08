@@ -1,0 +1,61 @@
+project:
+  type: book
+  output-dir: docs
+  output-file: "big-team-setup"
+  resources:
+  - "images/*"
+
+book:
+  title: "Big Team Setup"
+  author: "Lisa DeBruine"
+  #description: "Setting up a Big-Team Science project, for the ABRIR workshop series, Increased Representation: A Vision for Inclusive Big-team Science (September 2022)"
+  cover-image: images/logo.png
+  image: images/logo.png
+  fav-icon: images/favicon.ico
+  google-analytics: "G-6NP3MF25W3"
+  page-navigation: true
+  search: true
+  comments:
+    hypothesis:
+      theme: clean
+      openSidebar: false
+  repo-url: https://github.com/debruine/big-team-setup/
+  repo-branch: master
+  repo-actions: [edit, issue, source]
+  sharing: [twitter, facebook, linkedin]
+  page-footer:
+    left: "CC-BY 2022, Lisa DeBruine"
+    right:
+      - icon: github
+        href: https://github.com/debruine/big-team-setup
+      - icon: twitter
+        href: https://twitter.com/lisadebruine
+  chapters:
+    - index.qmd
+    - part: "English"
+      chapters:
+      - en-recruiting.qmd
+      - en-governance.qmd
+      - en-communication.qmd
+      - en-tools.qmd
+      - en-website.qmd
+
+bibliography: include/book.bib
+csl: include/apa.csl
+
+format:
+  html:
+    theme:
+      light: yeti
+      dark: darkly
+    code-link: true
+    code-fold: true
+    code-line-numbers: true
+    code-overflow: wrap
+    code-copy: true
+    code-block-border-left: "#4864DB"
+    highlight-style: a11y
+    monofont: Fira Code
+    mainfont: Open Sans
+    css: include/style.css
+    include-after-body: include/script.js

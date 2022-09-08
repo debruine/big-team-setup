@@ -1,0 +1,75 @@
+# Website {#sec-website}
+
+First, take a look at some existing big team science websites and see what type of information you want to include in your site. If it's still early in your organisation, you may not have as complex a structure as some of these.
+
+* [ManyBabies](https://manybabies.github.io)
+* [ManyPrimates](https://manyprimates.github.io/)
+* [Psychological Science Accelerator](https://psysciacc.org/)
+* [ManyDogs](https://manydogsproject.github.io/)
+
+## Sections
+
+Most big team science organisation websites will have at least the following sections.
+
+### Purpose/Vision
+
+Let people know what the purpose of your group is. What specific problems or questions are you tackling?
+
+### How to Join
+
+Make it easy for people to figure out how to join you.
+
+### Members
+
+Who are your members? What are their interests? Where do they come from and what sort of expertise do they have?
+
+Some blog formats like Wordpress or Hugo can create a membership page automatically, as long as you add each member's data in a specific way. It's worth thinking about this page when you're designing your membership forms. 
+
+### Activities
+
+What activities is your group engaged in? At the start, you probably won't have much more than plans, but think about structuring your website so that it will be easy to add in new projects and outputs.
+
+## Accessibility
+
+Accessibility is very important for a website. Make sure that you're adding descriptive alt text to any images and using web templates that have a semantic structure for screen readers. The options described below are generally good for accessibility.
+
+## Construction
+
+There are many, many ways to create a website, but I'll assume if you're looking at this guide, you don't have a lot of experience. The options below are fairly straightforward ways to create an organisation's website.
+
+
+### Jeckyll
+
+[ManyBabies](https://manybabies.github.io) has a website powered by [BeautifulJeckyll](https://beautifuljekyll.com/) and hosted on [GitHub Pages](https://pages.github.com/). If you have a github account, it's very easy to set up the default and start tinkering.
+
+### Hugo
+
+[Hugo](https://gohugo.io/) is an open-source website generator. If you have experience with R, you can make a Hugo website using [Quarto](https://quarto.org/docs/reference/formats/markdown/hugo.html) or [Blogdown](https://bookdown.org/yihui/blogdown/).
+
+Hugo has a lot of [themes](https://themes.gohugo.io/) for websites. [Academic](https://themes.gohugo.io/themes/starter-hugo-academic/) is a popular theme with multilingual support. Hugo sites are good if you want to host a blog and take advantage of features that track post topics and engagement.
+
+
+### WordPress
+
+The [PSA](https://psysciacc.org/)'s website is made with [WordPress](https://wordpress.com/). This option requires no coding experience and is easier for multiple people to manage. There are many [themes](https://en-gb.wordpress.org/themes/) for customising your site.
+
+One downside is that this type of dynamic website can be more complex to host, but you can start with free hosting at WordPress.com.
+
+## Hosts
+
+Your website needs to be hosted somewhere. GitHub Pages and Netlify are two of the best free options. Both allow you to use a custom domain name or a domain name like myteam.github.io or myteam.netlify.com.
+
+### Github Pages
+
+It's very straightforward to host a static website for free using [GitHub Pages](https://pages.github.com/). You need to have set up a GitHub organisation as described in @sec-github and create a repository called `yourorgname.github.io` for the web files. 
+
+### Netlify
+
+[Netlify](https://app.netlify.com/) can host a webpage and also has quick-start templates for setting up a websites using Hugo or other types of templates. 
+
+
+## Domain Name {#sec-domain}
+
+It's a good idea to register a domain name for your group, but don't get suckered into buying an expensive .com name. Go to [Google Domains](https://domains.google/) and type in the name you're using for social media. They will show you all of the domain endings that are available for that name and their prices. The .info domain is usually about £10 per year, but there are hundreds of options (.tires is bizarrely expensive).
+
+You can get domain names cheaper elsewhere, but I've run into trouble before with registrars who make it hard to transfer ownership of a domain. But if you've had good luck with one, go ahead and use it.

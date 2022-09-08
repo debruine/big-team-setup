@@ -1,0 +1,9 @@
+# Overview {-}
+
+This guide is one of the "talks" for [ABRIR](https://abrirpsy.org)'s workshop series: [Increased Representation: A Vision for Inclusive Big-team Science](https://abrirpsy.org/program-updated-increased-representation-workshop-series/). The author, Lisa DeBruine, will be available to answer questions asynchronously on the workshop Slack during the conference, 22-24 September 2022.
+
+This guide is aimed at people wanting to start a big team science group from the grassroots, with little or no financial or administrative support. It will cover how you recruit members, set up governance, communicate with the team, set up and use social media accounts, use tools for collaboration, and set up a website.
+
+Remember that this is only one perspective. My qualifications for giving advice are being a founding member and current Associate Director of the [Psychological Science Accelerator](https://psysciacc.org) and the founder of [ManyFaces](https://twitter.com/ManyFacesTeam), and having previously been the web and communications officer for the Human Behavior and Evolution Society and the European Human Behaviour and Evolution Association. I've had the enormous privileges of being a first-language English speaker at a supportive, well-funded, research intensive university in Scotland. I hope that this guide can be the start of a more extensive guide with more voices and perspectives.
+
+
