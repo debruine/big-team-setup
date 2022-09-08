@@ -1,7 +1,7 @@
 project:
   type: book
   output-dir: docs
-  output-file: "bts"
+  output-file: "big-team-setup"
   resources:
   - "images/*"
 
@@ -19,6 +19,7 @@ book:
     hypothesis:
       theme: clean
       openSidebar: false
+  site-url: https://code-check-club.github.io/big-team-setup/
   repo-url: https://github.com/debruine/big-team-setup/
   repo-branch: master
   repo-actions: [edit, issue, source]
