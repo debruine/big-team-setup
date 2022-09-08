@@ -1,7 +1,7 @@
 project:
   type: book
   output-dir: docs
-  output-file: "big-team-setup"
+  output-file: "bts"
   resources:
   - "images/*"
 
