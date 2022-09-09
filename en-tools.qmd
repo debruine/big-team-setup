@@ -1,4 +1,4 @@
-# Tools for Collaboration {#sec-tools}
+# Tools for Collaboration {#sec-en-tools}
 
 A big team science group usually produces scientific products, like registration plans, data sets, analysis code, and manuscripts. you'll need a way to track and organise all of this. Here are a few of my favourite tools that you can set up accounts for your teams.
 
@@ -10,12 +10,23 @@ Google docs, sheets, and forms are a useful way to collaborate on documents with
 
 If someone in your core group works at a university where they can make a Google [Shared Drive](https://support.google.com/a/users/answer/9310249), this can be a nice way to organise documents. Members can be added to the shared drive and can create documents where all members have default permission to edit.
 
-If you can't make a shared drive, you can set up a new Google account for your team and keep all documents in a folder on that account's [Google Drive](https://drive.google.com/drive/). Documents made by team members will need to give editor permissions to the group account. 
+If you can't make a shared drive, you can set up a new Google account for your team and keep all documents in a folder on that account's [Google Drive](https://drive.google.com/drive/). Documents made by team members will need to give editor permissions to the group account. You can make documents open for anyone to edit, comment of or view, or restrict access to only specific people.
+
+![](images/google-doc-sharing.png){fig-alt="Google Docs sharing interface showing the options for Anyone with a link: viewer, Commenter, Editor (checked)"}
 
 
 ## Calendar
 
 As your group grows, you'll need to keep track of meetings and deadlines. A group calendar can help with this. [Google Calendar](https://calendar.google.com/) is probably the easiest to set up, especially if you already made a Google account for the team.
+
+You will also probably need to organise meeting times across several time zones. Choose a service like [When2Meet](https://www.when2meet.com/) that has good support for multiple time zones. Adding meetings to a shared calendar helps to prevent confusion about what time zone that 3pm meeting is actually in. 
+
+Consider linking to the [Event Time Announcer](https://www.timeanddate.com/worldclock/fixedform.html) when advertising events with a specific time. You can fill in a form that gives you a URL to link your event time to in a format like this:
+
+<https://www.timeanddate.com/worldclock/fixedtime.html?msg=ABRIR+Hackathons&iso=20220924T11&p1=43&ah=7>
+
+![Event Time Announcer](images/event-time-announcer.png){fig-alt="Interface for the event time announcer. One box ith the event tim in the original time zone and another box with the converted local time zone."}
+
 
 ## OSF
 
@@ -23,13 +34,17 @@ The [Open Science Framework](https://osf.io) is a great place to archive your do
 
 Make a project for your team. (Set the storage location to Germany if your team has European members so they can store research data there without [GDPR](https://gdpr.eu/what-is-gdpr/) problems.) Create a new component for each project and add the appropriate contributors.
 
+* [PSA OSF pages](https://osf.io/93qpg/)
+
 ## Zotero
 
 [Zotero](https://www.zotero.org/) is probably the best and most open reference manager there is. You can set up a [shared library for your group](https://www.zotero.org/groups/) that members can join. You can use this as a way to track your group's outputs, or as a shared reference manager for projects. You can set the library to be totally private or publicly viewable.
 
-## Github {#sec-github}
+## Github {#sec-en-github}
 
 If your group will have any open code, including analysis scripts, you should think about setting up a free [GitHub organisation](https://github.com/organizations/plan). [Code Check Club](https://github.com/code-check-club) is a good example of a group GitHub page.
+
+GitHub is also an excellent place to host websites for your organisation and each project (see @sec-en-github-pages).
 
 ## Zenodo
 

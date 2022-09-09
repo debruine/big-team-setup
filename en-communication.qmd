@@ -1,6 +1,6 @@
-# Team Communication {#sec-communication}
+# Team Communication {#sec-en-communication}
 
-Your team will need to communicate. There are two main choices to make: how to make announcements and how to have discussions.
+Your team will need to communicate. There are two main choices to make: how to make announcements and how to have discussions. You will also probably want to set up a range of social media accounts, even if you don't plan to use them right away.
 
 ## Announcements
 
@@ -18,6 +18,11 @@ It's almost always preferable to use a managed email list than to send emails to
   - the free account has a limit of 500 contacts, 2500 emails/month, and 500 emails/day
   - 15% discount on paid accounts for non-profits
   - Nice templates and stats on email reach
+* [WordPress](https://www.wpbeginner.com/beginners-guide/how-to-build-an-email-list-in-wordpress-email-marketing-101/)
+  - If you're going to build a website in WordPress (@sec-en-wordpress), you can also use this to manage membership and send emails
+
+You will probably just use your mailing list for ad-hoc announcements at first. As your organisation matures, you'll probably want to set up a regular newsletter. 
+
 
 ## Discussions
 
@@ -26,11 +31,11 @@ Your group will have a lot of things to discuss, and need a forum to do this wit
 * Is the platform accessible to all members?
 * What are the limits in terms of members, messages, time , channels, archiving?
 * Is the service free and likely to remain so as your team grows?
-* Does the platform provide enough channels and threading for the complexity of your projects?
+* Does the platform provide enough channels and threading for the complexity of your projects? For example, can people subscribe to only the channels they are interested in?
 * Does the service integrate with other tools you might want to use (e.g., Google Drive, calendars)
 * Do you need integrated video chat? Most academics have access to institutional Zoom, so can use that for virtual meetings.
 
-[Slack](https://slack.com) used to be the go-to platform for bog team science discussion. It was easy to set up a free group and get people to join. However, with the recent introduction of a 90-day limit on viewing past posts for the free version, I cannot recommend it any more. The academic discount is 85%, but that's still $0.78 (US) per active user per month, which makes it hard for big, active teams to afford.
+[Slack](https://slack.com) used to be the go-to platform for big team science. It was easy to set up a free group and get people to join. However, with the recent introduction of a 90-day limit on viewing past posts for the free version, I cannot recommend it any more. The academic discount is 85%, but that's still $0.78 (US) per active user per month, which makes it hard for big, active teams to afford.
 
 * [Discord](https://discord.com/) has a lot of the same features and a similar user interface to Slack, without the 90-day limit. It also has a voice chat feature.
 
@@ -40,29 +45,29 @@ Your group will have a lot of things to discuss, and need a forum to do this wit
 
 [Microsoft Teams](https://www.microsoft.com/en-us/microsoft-teams/free) can seem like a good alternative if your university already makes you use it, but signing onto a new organisation can be tricky and the desktop app is a disaster for many.
 
-[GitHub Discussions](https://docs.github.com/en/discussions/quickstart) can be a good solution if your group has a coding focus already and most members have or would not object to getting a github account (see @sec-github). Despite being the go-to repository for open-source software, GitHub is owned by Microsoft, so that may affect your opinion. The [Code Check Club](https://github.com/orgs/code-check-club/discussions) is currently using github discussions for announcements (members can opt into an email digest), but actual discussion has really waned since we moved off Slack.
+[GitHub Discussions](https://docs.github.com/en/discussions/quickstart) can be a good solution if your group has a coding focus already and most members have or would not object to getting a github account (see @sec-en-github). Despite being the go-to repository for open-source software, GitHub is owned by Microsoft, so that may affect your opinion. The [Code Check Club](https://github.com/orgs/code-check-club/discussions) is currently using github discussions for announcements (members can opt into an email digest), but actual discussion has really waned since we moved off Slack.
 
-[Canvas](https://www.instructure.com/canvas) is normally used for managing teaching, but the brilliant Erin Buchanan has repurposed this open-source software for the [PSA Member site](https://canvas.psysciacc.org/). It's not something I'd recommend for a new group, but something to think about as you grow. It can be an all-in-one solution for tracking membership, email announcements, and project management. 
+[Canvas](https://www.instructure.com/canvas) is normally used for managing teaching, but the brilliant Erin Buchanan has repurposed this open-source VLE/LMS software for the [PSA Member site](https://canvas.psysciacc.org/). It's not something I'd recommend for a new group, but something to think about as you grow. It can be an all-in-one solution for tracking membership, email announcements, and project management, but requires a member with some specialist skills and resources for hosting the site.
 
-## Social Media {#sec-socialmedia}
+## Social Media {#sec-en-socialmedia}
 
-Now that you've set up the main channel of communication with your team, you may wish to use social media to advertise what you're up to and continue recruitment. The main things you need to consider before setting up social media accounts are:
+Now that you've set up the main channel of communication within your team, you may wish to use social media to advertise what you're up to and continue recruitment. The main things you need to consider before setting up social media accounts are:
 
 * Who is your target audience? Existing members, potential new members, academics, the public?
 * What social media do they use? 
 * Are there sections of your audience that can't access some social media? For example, Twitter is inaccessible to many Chinese academics.
 * What names are available?
 
-This last one might seem silly, but it's annoying and confusing to have different names across different platforms because your preferred name wasn't available on one. Choose a name that is likely to be available on all social media you'll use, as well as the platforms in @sec-tools, such as Google or GitHub.
+This last one might seem silly, but it's annoying and confusing to have different names across different platforms because your preferred name wasn't available on one. Choose a name that is likely to be available on all social media you'll use, as well as the platforms in @sec-en-tools, such as Google or GitHub.
 
-I'd recommend setting up an account at all of the major social media platforms, even if you don't intend on using it much, just to make sure no one else can misrepresent your organisation by taking that name. Just set up the general information and link to your main source of information (e.g., Twitter or a webpage).
+I'd recommend setting up an account at each of the major social media platforms, even if you don't intend on using it much, just to make sure no one else can misrepresent your organisation by taking that name. Just set up the account and include a link to your main source of information (e.g., Twitter or a webpage).
 
-You can set up most of these account using your group's Google profile, which is a good way to avoid having too many login details to remember. However, you may also want to sign up for a group password manager, such as [1Password](https://1password.com/).
+You can set up most of these account using your group's Google profile, which is a good way to avoid having too many login details to remember. However, you may also want to sign up for a group password manager, such as [1Password](https://1password.com/), to keep track of all the logins and share them with a management group.
 
 * [Twitter](https://help.twitter.com/en/using-twitter/create-twitter-account) is good for sharing announcements
 * [Facebook Groups](https://www.facebook.com/help/167970719931213) are good for discussions and community engagement
 * [Instagram](https://help.instagram.com/182492381886913/) is good for sharing images
-* [TikTok](https://www.tiktok.com/signup) is good for sharing short videos (up to 10 minutes) with an engaging style
+* [TikTok](https://www.tiktok.com/signup) is good for sharing short, engaging videos
 * [YouTube](https://support.google.com/youtube/answer/161805) is good for sharing longer videos and curating playlists
 
 

@@ -1,19 +1,28 @@
 # Recruiting Members
 
-My involvement in the Psychological Science Accelerator started in 2017 with a tweet from Chris Chartier. And 5 years later, ManyFaces started with another.
+My involvement in the Psychological Science Accelerator started in 2017 with a [tweet from Chris Chartier](https://twitter.com/CRChartier/status/901500936727781376). And 5 years later, ManyFaces started with [another](https://twitter.com/LisaDeBruine/status/1486807497608466435).
 
-::: {#fig-tweets layout-ncol=2}
+::: {#fig-tweets .light-mode layout-ncol=2}
 
-![](images/psa-tweet.png){fig-alt="Tweet from Chris Chartier: It's time to begin building a CERN for Psychological Science"}
+![](images/psa-tweet-light.png){fig-alt="Tweet from Chris Chartier: It's time to begin building a CERN for Psychological Science" style="border:2px solid #009A2A;"}
 
-![](images/manyfaces-tweet.png){fig-alt="Tweet from Lisa DeBruine: Big Team Science is growing. I've loved my involvement with @PsySciAcc and think teams like this and @Many_Babies, @BrRepInitiative, @ManyPrimates etc. are the future of science. So I've been wondering if it's time to start ManyFaces." style="border:2px solid purple;"}
+![](images/manyfaces-tweet-light.png){fig-alt="Tweet from Lisa DeBruine: Big Team Science is growing. I've loved my involvement with @PsySciAcc and think teams like this and @Many_Babies, @BrRepInitiative, @ManyPrimates etc. are the future of science. So I've been wondering if it's time to start ManyFaces." style="border:2px solid purple;"}
+
+Tweets that started big team science groups.
+:::
+
+::: {#fig-tweets-dark .dark-mode layout-ncol=2}
+
+![](images/psa-tweet-dark.png){fig-alt="Tweet from Chris Chartier: It's time to begin building a CERN for Psychological Science" style="border:2px solid #009A2A;"}
+
+![](images/manyfaces-tweet-dark.png){fig-alt="Tweet from Lisa DeBruine: Big Team Science is growing. I've loved my involvement with @PsySciAcc and think teams like this and @Many_Babies, @BrRepInitiative, @ManyPrimates etc. are the future of science. So I've been wondering if it's time to start ManyFaces." style="border:2px solid purple;"}
 
 Tweets that started big team science groups.
 :::
 
 Twitter or other social media is a great way to gauge interest in starting a big team science group. If you get a lot of interest, you need to be prepared to start organising quickly to keep that momentum.
 
-## Registering interest {#sec-reg-interest}
+## Registering interest {#sec-en-reg-interest}
 
 You can set up a quick [Google form](https://docs.google.com/forms/) to register interest in the group. That way, you can make a list of everyone who is interested in order to contact them later if you don't have the time to start right away. It is also a way to centralise recruitment so you don't have keep track of who is interested in twitter threads and emails and facebook posts...
 
@@ -41,12 +50,12 @@ What would you be interested in building with a consortium?
 
 ## Brainstorming Document
 
-One thing that worked really well for ManyFaces, and also for a Code Review Guide I recently organised, was to start a brainstorming document. This is a better way to collect and organise ideas than forum posts. 
+One thing that worked really well for ManyFaces and the Code Check Club was to start a brainstorming document. This is a better way to collect and organise ideas than twitter or forum posts. 
 
 * [ManyFace brainstorming](https://docs.google.com/document/d/1X6b3am7zwDYXT2-TUR-a85-xG-cdrE8_vz9GICbwAl0/edit)
 * [Code Review Guide brainstorming](https://docs.google.com/document/d/1cqrRDEYkhtZT9QRruZmUnPPN00VEo0fKV7cEyoluMnU/edit)
 
-Google Docs are an ideal place to start a brainstorming document. Just set up a document and make sure to update the Sharing settings so anyone with the link can edit (or at least comment). 
+[Google Docs](https://docs.google.com/) are an ideal place to start a brainstorming document. Just set up a document and make sure to update the Sharing settings so anyone with the link can edit (or at least comment). 
 
 ![](images/google-doc-sharing.png){fig-alt="Google Docs sharing interface showing the options for Anyone with a link: viewer, Commenter, Editor (checked)"}
 
@@ -60,7 +69,7 @@ I would structure the brainstorming document with headers (actually use the head
 * **Contributors**: introduce yourself, what you bring to the group, and what you hope to get out of it
 * **Resources**: what do potential members have to contribute in terms of time, expertise, equipment, or materials?
 * **Questions/Goals**: what are the questions this group will tackle, or overarching goals?
-* **Ideas**: list all of your ideas for what the group could do; no idea is too big/small yet
+* **Ideas**: list all of your ideas for what the group could do; no idea is too big/small at this stage
 * **Challenges**: what roadblocks do people see to getting this group up and running?
 * **Organising**: list what needs to be done to get the group started (the rest of this guide should help with that)
 

@@ -1,4 +1,4 @@
-# Website {#sec-website}
+# Website {#sec-en-website}
 
 First, take a look at some existing big team science websites and see what type of information you want to include in your site. If it's still early in your organisation, you may not have as complex a structure as some of these.
 
@@ -49,7 +49,7 @@ There are many, many ways to create a website, but I'll assume if you're looking
 Hugo has a lot of [themes](https://themes.gohugo.io/) for websites. [Academic](https://themes.gohugo.io/themes/starter-hugo-academic/) is a popular theme with multilingual support. Hugo sites are good if you want to host a blog and take advantage of features that track post topics and engagement.
 
 
-### WordPress
+### WordPress {#sec-en-wordpress-en}
 
 The [PSA](https://psysciacc.org/)'s website is made with [WordPress](https://wordpress.com/). This option requires no coding experience and is easier for multiple people to manage. There are many [themes](https://en-gb.wordpress.org/themes/) for customising your site.
 
@@ -59,17 +59,27 @@ One downside is that this type of dynamic website can be more complex to host, b
 
 Your website needs to be hosted somewhere. GitHub Pages and Netlify are two of the best free options. Both allow you to use a custom domain name or a domain name like myteam.github.io or myteam.netlify.com.
 
-### Github Pages
+### Github Pages {#sec-en-github-pages}
 
-It's very straightforward to host a static website for free using [GitHub Pages](https://pages.github.com/). You need to have set up a GitHub organisation as described in @sec-github and create a repository called `yourorgname.github.io` for the web files. 
+It's very straightforward to host a static website for free using [GitHub Pages](https://pages.github.com/). You need to have set up a GitHub organisation as described in @sec-en-github and create a repository called `yourorgname.github.io` for the web files. 
+
+One nice thing about GitHub Pages is that each project can have its own repository and a website in a subsection of the main website. For example, PsyTeachR has a main site at <https://psyteachr.github.io/>, but each book (e.g., [Applied Data Skills](https://psyteachr.github.io/ads/) or [Statistical Models](https://psyteachr.github.io/stat-models/)) has its own repository and separate team of authors. 
+
+::: {.light-mode}
+![The PsyTeachR GitHub organisation <https://github.com/PsyTeachR>](images/github-org-light.png){fig-alt="A screenshot of the GitHub interface for the PsyTeachR organisation showing the readme, pinned repositories, and members; see https://github.com/PsyTeachR for full text"}
+:::
+
+::: {.dark-mode}
+![The PsyTeachR GitHub organisation <https://github.com/PsyTeachR>](images/github-org-dark.png){fig-alt="A screenshot of the GitHub interface for the PsyTeachR organisation showing the readme, pinned repositories, and members; see https://github.com/PsyTeachR for full text"}
+:::
+
+
 
 ### Netlify
 
 [Netlify](https://app.netlify.com/) can host a webpage and also has quick-start templates for setting up a websites using Hugo or other types of templates. 
 
 
-## Domain Name {#sec-domain}
+## Domain Name {#sec-en-domain}
 
-It's a good idea to register a domain name for your group, but don't get suckered into buying an expensive .com name. Go to [Google Domains](https://domains.google/) and type in the name you're using for social media. They will show you all of the domain endings that are available for that name and their prices. The .info domain is usually about £10 per year, but there are hundreds of options (.tires is bizarrely expensive).
-
-You can get domain names cheaper elsewhere, but I've run into trouble before with registrars who make it hard to transfer ownership of a domain. But if you've had good luck with one, go ahead and use it.
+It's a good idea to register a domain name for your group, but don't get suckered into buying an expensive .com name. Go to [Google Domains](https://domains.google/) (or your favourite domain registrar) and type in the name you're using for social media. They will show you all of the domain endings that are available for that name and their prices. The .info domain is usually about £10 per year, but there are hundreds of options (.tires is bizarrely expensive).

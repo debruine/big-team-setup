@@ -6,21 +6,23 @@ The first thing an organisation needs is an interim board to take on the work de
 
 Set up a specific list of tasks that the interim board needs to handle over a specific time period, ending with the election of your replacements. Here are some ideas:
 
-* Official name and logo @sec-name
-* Track membership @sec-membership
-* Working practices @sec-practices
-* Authorship policy @sec-authorship
-* Code of conduct @sec-coc
-* Set up communication channels @sec-communication
-* Set up social media @sec-socialmedia
-* Set up tools for collaboration @sec-tools
-* Set up a website @sec-website
+* Official name and logo @sec-en-name
+* Track membership @sec-en-membership
+* Working practices @sec-en-practices
+* Authorship policy @sec-en-authorship
+* Code of conduct @sec-en-coc
+* Set up communication channels @sec-en-communication
+* Set up social media @sec-en-socialmedia
+* Set up tools for collaboration @sec-en-tools
+* Set up a website @sec-en-website
 
-## Name and Logo {#sec-name}
+## Name and Logo {#sec-en-name}
 
-Give some thought to the official name. Make sure it's unique, has a good acronym or abbreviation, and doesn't have negative connotations in other languages. ManyXXXX is a popular name style that signals your group has similar purpose, values and structure to groups like ManyBabies, ManyFaces, EEGManyLabs, ManyAnalysts, ManyPrimates, ManyDogs, ManyBirds, ManyGoats, ManyFishes, etc. You also want this name to be available at all of the social media (@sec-socialmedia) and tools (@sec-tools) services you will sign up to, and to have an available domain name for a website (@sec-domain).
+Give some thought to the official name. Make sure it's unique, has a good acronym or abbreviation, and doesn't have negative connotations in other languages. ManyXXXX is a popular name style that signals your group has similar purpose, values and structure to groups like ManyBabies, ManyFaces, EEGManyLabs, ManyAnalysts, ManyPrimates, ManyDogs, ManyBirds, ManyGoats, ManyFishes, etc. You also want this name to be available at all of the social media (@sec-en-socialmedia) and tools (@sec-en-tools) services you will sign up to, and to have an available domain name for a website (@sec-en-domain).
 
-Also make sure you have a good logo. You will need a square logo for your avatar on most social media sites, and also a banner-style image for some.
+Also make sure you have a good logo. You will need a square/circle logo for your avatar on most social media sites, and also a banner-style image for some. A good logo is distinctive, clear at small sizes and doesn't have too much text. Several silhouettes of what you are studying seems to be a popular choice.
+
+Make the logo using a non-lossy format like PNG and use a transparent background (unless your logo is actually square). Also check what your logo looks like on dark and light backgrounds (toggle this page at the upper left to see the logos below on light and dark backgrounds). 
 
 ::: {#fig-logos layout="[[1,1,1,1],[1,1,1,1]]"}
 
@@ -28,11 +30,11 @@ Also make sure you have a good logo. You will need a square logo for your avatar
 
 ![ManyBabies](images/manybabies-logo.png){fig-alt="The letters MB surrounded by stylised babies holding hands with different-coloured nappies"}
 
-![ManyFaces](images/manyfaces-logo.jpg){fig-alt="Hexagon with rainbow sides and three 3D human faces in the middle; the faces are different genders and ethnicities, but rendered like marble"}
+![ManyFaces](images/manyfaces-logo.png){fig-alt="Hexagon with rainbow sides and three 3D human faces in the middle; the faces are different genders and ethnicities, but rendered like marble"}
 
-![ManyClasses](images/manyclasses-logo.jpg){fig-alt="Abstract orange and blue image that looks like an open book making a vague letter m"}
+![ManyClasses](images/manyclasses-logo.png){fig-alt="Abstract orange and blue image that looks like an open book making a vague letter m"}
 
-![ManyDogs](images/manydogs-logo.jpg){fig-alt="Three dog silhouettes superimposed: blue, red and yellow"}
+![ManyDogs](images/manydogs-logo.png){fig-alt="Three dog silhouettes superimposed: blue, red and yellow"}
 
 
 
@@ -53,38 +55,38 @@ Big team science logos
 
 ![](images/manyfaces-banner.jpg){fig-alt="Six 3D faces looking from left to right in rainbow colours"}
 
-![PSA](images/manydogs-banner.png){fig-alt="Three silhouettes of different-sized dogs leaping in the middle of the words MANY and DOGS"}
+![](images/manydogs-banner.png){fig-alt="Three silhouettes of different-sized dogs leaping in the middle of the words MANY and DOGS"}
 
 Big team science banners
 
 :::
 
-## Track Membership {#sec-membership}
+## Track Membership {#sec-en-membership}
 
-How will you keep track of members? A new organisation probably won't be collecting dues, but you'll want some way to know who is involved. Inevitably, you'll want to write "We have XXX members from XX countries around the world!" or make a map of your membership, so you need a way to keep track. 
+How will you keep track of members? A new organisation probably won't be collecting dues, but you'll want some way to know who is involved. Inevitably, you'll want to write something like "We have 1350 members from 82 countries around the world!" or make a map of your membership, so you need a way to keep track. 
 
-The interest registration form @sec-reg-interest can serve as the initial membership list, but you probably want more information from the members, such as their areas of expertise, resources they can contribute, and tasks they are willing to take on. 
+The interest registration form (@sec-en-reg-interest) can serve as the initial membership list, but you probably want more information from the members, such as their areas of expertise, resources they can contribute, and tasks they are willing to take on. ManyBabies has a very cool [membership tracker](https://manybabies.shinyapps.io/shiny_mb_map/) shiny app that shows their membership around the world.
 
-Think about how you'll keep track of active versus inactive members. You can make membership forever (at least until a removal request). The main advantage of this strategy is that your membership numbers will only increase. However, you'll have to deal with more bounced emails every year and it is difficult to know who is active for planning and capacity purposes. Alternatively, you can  make membership for a set amount of time, like a year, and require members to re-join every year. This can give you a more accurate view of your membership, but risks losing people who just forgot to re-join and is an extra yearly hassle for everyone.
+Think about how you'll keep track of active versus inactive members. You can make membership last forever (at least until a removal request). The main advantage of this strategy is that your membership numbers will only increase. However, you'll have to deal with more bounced emails every year and it is difficult to know who is active for planning and capacity purposes. Alternatively, you can  make membership for a set amount of time, like a year, and require members to re-join every year. This can give you a more accurate view of your membership, but risks losing people who just forgot to re-join and is an extra yearly hassle for everyone.
 
-## Working Practices {#sec-practices}
+## Working Practices {#sec-en-practices}
 
-Look at some other big team science organisations and figure out what model you want to use for deciding what projects to pursue. if your group is formed around an already well-articulated project, you can skip this step. 
+Look at some other big team science organisations and figure out what model you want to use for deciding what projects to pursue. If your group is formed around an already well-articulated project, you can skip this step. 
 
 For example, the [Psychological Science Accelerator](https://psysciacc.org/how-we-work/) has formal study selection calls where applications for projects are submitted and then assessed by reviewers and the full membership before the study selection committee chooses the projects that can be run, given the current capacity of the network.
 
 ManyBabies uses a formal [project proposal form](https://docs.google.com/document/d/1kbnK2us2Svfcf7X4TAI5YUw3_duUNAQoYINTuuWr1Jw/edit), but does not have specific calls with deadlines. ManyFaces currently has a much less formal process where work projects are proposed in a discussion channel and, once the proposer deems there is enough interest, a working group is formed. 
 
-## Authorship Policy {#sec-authorship}
+## Authorship Policy {#sec-en-authorship}
 
 How to handle authorship is also an important thing to agree on. Do this **before** problems arise. ManyBabies has an excellent [authorship policy](https://manybabies.github.io/authorship/).
 
 Consider the [CRediT contributor roles taxonomy](https://www.niso.org/publications/z39104-2022-credit) and the [tenzing app](https://rollercoaster.shinyapps.io/tenzing/) for documenting contributor roles.
 
 
-## Code of Conduct {#sec-coc}
+## Code of Conduct {#sec-en-coc}
 
-A code of conduct sets out the values, norms, and responsibilities of membership in a clear way. While a code of conduct itself doesn't prevent bad behaviour, it is a first step to signalling your organisation's values.
+A code of conduct sets out the values, norms, and responsibilities of membership in a clear way. Whilst a code of conduct itself doesn't prevent bad behaviour, it is a first step to signalling your organisation's values.
 
 A code of conduct should include (adapted from [How to Respond to Code of Conduct Reports](https://files.frameshiftconsulting.com/books/cocguide.pdf)):
 
