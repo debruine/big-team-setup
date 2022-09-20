@@ -1,0 +1,85 @@
+# Web site {#sec-tr-website}
+
+İlk olarak, mevcut bazı büyük ekip bilimi web sitelerine bir göz atmanız tavsiye edilir, böylece sitenize ne tür bilgiler eklemek istediğinizi görebilirsiniz. Kuruluşunuz için henüz erken ise, web siteniz bunlardan bazıları kadar karmaşık bir yapıya sahip olmayabilir.
+
+* [ManyBabies](https://manybabies.github.io)
+* [ManyPrimates](https://manyprimates.github.io/)
+* [Psychological Science Accelerator](https://psysciacc.org/)
+* [ManyDogs](https://manydogsproject.github.io/)
+
+## Bölümler
+
+Çoğu büyük ekip bilim kurumu web sitesinde en azından aşağıdaki bölümler bulunur.
+
+### Amaç/Vizyon
+
+İnsanlara grubunuzun amacının ne olduğunu bildirin. Hangi spesifik problemlerle ya da sorularla uğraşıyorsunuz?
+
+### Nasıl Katılınır? 
+
+İnsanların size nasıl katılacaklarını bulmasını kolaylaştırın.
+
+### Üyeler
+
+Üyeleriniz kimler? İlgi alanları nelerdir? Nereden geliyorlar ve hangi alanda uzmanlıkları var?
+
+Wordpress veya Hugo gibi bazı blog formatları, her üyenin verilerini belirli bir şekilde eklediğiniz sürece otomatik olarak bir üyelik sayfası oluşturabilir. Üyelik formlarınızı tasarlarken "üyeler" sayfasını düşünmek önemlidir. 
+ 
+### Faaliyetler
+
+Grubunuz hangi faaliyetlerde bulunuyor? Başlangıç aşamasında, muhtemelen planlardan fazlasına sahip olmayacaksınız, ancak web sitenizi yeni projeler ve çıktılar eklemeyi kolaylaştıracak bir şekilde yapılandırmayı düşünebilirsiniz. 
+
+## Erişilebilirlik
+
+Bir web sitesi için erişilebilir olması çok önemlidir. Tüm görsellere açıklayıcı alternatif metin eklediğinizden ve ekran okuyucu programlar için anlamsal bir yapıya sahip web şablonları kullandığınızdan emin olun. Aşağıda açıklanan seçenekler genellikle erişilebilirlik açısından iyidir.
+
+## Web Sitesi Yapımı
+
+Bir web sitesi oluşturmanın pek çok yolu vardır, ancak bu kılavuza bakıyorsanız çok fazla deneyiminiz olmadığını varsayabiliriz. Aşağıdaki seçenekler, bir kuruluşun web sitesini oluşturmak için oldukça basit yollardır. 
+
+
+### Jeckyll
+
+[ManyBabies](https://manybabies.github.io) [BeautifulJeckyll](https://beautifuljekyll.com/) tarafından desteklenen ve [GitHub Pages](https://pages.github.com/) sunucusunda barınmaktadır. Bir GitHub hesabınız varsa, varsayılanı ayarlamak ve 	kurcalamaya başlamak çok kolaydır.
+
+### Hugo
+
+[Hugo](https://gohugo.io/) açık kaynaklı bir web sitesi üreticisidir. R ile deneyiminiz varsa, [Quarto](https://quarto.org/docs/reference/formats/markdown/hugo.html) ve [Blogdown](https://bookdown.org/yihui/blogdown/) kullanarak bir Hugo web sitesi oluşturabilirsiniz.
+
+Hugo'nun web siteleri için birçok [teması](https://themes.gohugo.io/) bulunmaktadır. [Akademik](https://themes.gohugo.io/themes/starter-hugo-academic/) teması çok dilli desteği olan popüler bir temadır. Bir blog açmak ve gönderi konularını ve etkileşimi izleyen özelliklerden yararlanmak istiyorsanız Hugo siteleri iyidir.
+
+### WordPress {#sec-tr-wordpress-en}
+
+[Psychological Science Accelerator'ın](https://psysciacc.org/) web sitesi [WordPress](https://wordpress.com/) kullanılarak yapılmıştır. Bu seçenek kodlama deneyimi gerektirmez ve birden fazla kişinin yönetmesi daha kolaydır. Sitenizi özelleştirmek için birçok [tema](https://en-gb.wordpress.org/themes/) bulunmaktadır.
+
+Bir dezavantajı, bu tür dinamik web sitelerinin barındırılmasının daha karmaşık olabilmesidir, ancak WordPress.com'da ücretsiz barındırma hizmeti ile başlayabilirsiniz.
+
+## Sunucular
+
+Web sitenizin bir yerde barındırılması/sunucusunun bulunması gereklidir. GitHub Pages ve Netlify, en iyi ücretsiz seçeneklerden ikisidir. Her ikisi de özel bir alan adı veya "myteam.github.io" veya "myteam.netlify.com" gibi bir alan adı kullanmanıza izin verir.
+
+### Github Pages {#sec-tr-github-pages}
+
+Statik bir web sitesini [GitHub Pages](https://pages.github.com/) kullanarak ücretsiz olarak barındırmak çok basittir. Bunun için @sec-tr-github bölümünde açıklandığı gibi bir GitHub organizasyonu kurmuş olmanız ve web dosyalarınız için `yourorgname.github.io` adında bir depo oluşturmanız gerekir. 
+
+GitHub Pages ile ilgili güzel bir nokta, her projenin kendi deposuna sahip olması ve ana web sitesinin alt bölümünde bir web sitesine sahip olabilmesidir. Mesela, PsyTeachR'in bir ana web sitesi <https://psyteachr.github.io/> ve her kitabı için (örn., [Applied Data Skills](https://psyteachr.github.io/ads/) ya da [Statistical Models](https://psyteachr.github.io/stat-models/) kendi depolama alanları ve ayrı yazar ekibi bulunmaktadır 
+
+::: {.light-mode}
+![The PsyTeachR GitHub organisation <https://github.com/PsyTeachR>](images/github-org-light.png){fig-alt="A screenshot of the GitHub interface for the PsyTeachR organisation showing the readme, pinned repositories, and members; see https://github.com/PsyTeachR for full text"}
+:::
+
+::: {.dark-mode}
+![The PsyTeachR GitHub organisation <https://github.com/PsyTeachR>](images/github-org-dark.png){fig-alt="A screenshot of the GitHub interface for the PsyTeachR organisation showing the readme, pinned repositories, and members; see https://github.com/PsyTeachR for full text"}
+:::
+
+
+
+### Netlify
+
+[Netlify](https://app.netlify.com/) bir web sayfasını barındırabilir. Ayrıca Hugo veya diğer şablon türlerini kullanarak bir web sitesi kurmak için hızlı başlangıç şablonlarına sahiptir.
+
+
+## Alan Adı {#sec-tr-domain}
+
+Grubunuz için bir alan adı kaydetmek iyi bir fikirdir, ancak pahalı bir .com adı satın almaya kendinizi kaptırmamanız tavsiye edilir. [Google Domains](https://domains.google/) kullanarak (veya favori alan adı yazmanızı) ve sosyal medya için kullandığınız adı yazabilirsiniz. Bu site size bu ad için kullanılabilen tüm alan uzantılarını ve fiyatlarını gösterir.".info" alan adı genellikle yılda yaklaşık 10 sterlindir, ancak başka yüzlerce seçenek bulunmaktadır.
+

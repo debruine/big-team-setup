@@ -1,0 +1,74 @@
+# ComunicaciÛn del equipo {#sec-sp-communication}
+
+El equipo tendr· que comunicarse. Hay que tomar dos decisiones principales: cÛmo hacer anuncios y cÛmo mantener conversaciones. TambiÈn es probable que quieras crear una serie de cuentas en las redes sociales, aunque no pienses utilizarlas de inmediato.
+
+## Comunicados
+
+El correo electrÛnico es probablemente la forma m·s com˙n de hacer comunicados.
+
+Casi siempre es preferible utilizar una lista de correos electrÛnicos gestionado (listserve) que enviar correos electrÛnicos a cada miembro individualmente. (Si tienes que hacerlo al principio; **por favor** ciega los correos electrÛnicos CC para evitar la catastofre de que todas las personas reciban las respuestas. Un correo electrÛnico gestionado permite que la gente se inscriba y se elimine de la lista, y garantiza que se cumplan las leyes anti-spam aplicables.
+
+![Google Groups Setup](images/google-groups-setup.png){fig-alt="La configuraciÛn de los grupos de Google muestra las opciones de quiÈn puede unirse al grupo: SÛlo personas invitadas, Cualquiera puede preguntar, Cualquiera puede unirse" style="float:right; max-width: 50%; margin-left: 1em;"}
+
+* [Google Groups](https://groups.google.com)
+  - Muy f·cil de configurar 
+  - N˙mero ilimitado de miembros y mensajes
+  - Interfaz sencilla; las estadÌsticas son m·s difÌciles de conseguir
+* [MailChimp](https://mailchimp.com/en-gb/pricing/marketing/)
+  - La cuenta gratuita tiene un lÌmite de 500 contactos, 2500 correos electrÛnicos/mes y 500 correos electrÛnicos/dÌa
+  - 15% de descuento en las cuentas de pago para organizaciones sin fines de lucro
+  - Bonitas plantillas y estadÌsticas sobre el alcance que tienen los correos electrÛnicos
+* [WordPress](https://www.wpbeginner.com/beginners-guide/how-to-build-an-email-list-in-wordpress-email-marketing-101/)
+  - Si vas a crear una p·gina web en WordPress (@sec-en-wordpress), tambiÈn puedes usarla para gestionar la afiliaciÛn y enviar correos electrÛnicos
+
+Es probable que al principio sÛlo utilices la lista de correo para anuncios puntuales. A medida que su organizaciÛn madure, probablemente querr· crear un boletÌn periÛdico. 
+
+
+## Discusiones
+
+Su grupo tendr· muchas cosas que discutir y necesitar·n un foro para hacerlo. Algunas cosas que se deben tener en cuenta a la hora de elegir una plataforma:
+
+* øEs la plataforma accesible a todos los/as miembros?
+* øCu·les son los lÌmites en cuanto a n˙mero de miembros, mensajes, tiempo, canales y capacidad de archivo?
+* øEl servicio es gratuito y es probable que siga siÈndolo a medida que su equipo crece?
+* øLa plataforma ofrece suficientes canales e hilos para la complejidad de sus proyectos? Por ejemplo, ølas personas pueden suscribirse sÛlo a los canales que les interesan?
+* øSe puede integrar otras herramientas en el servicio que se quiere utilizar (por ejemplo, Google Drive, calendarios)?
+* øNecesitas un videochat integrado? La mayorÌa de los acadÈmicos tienen acceso a Zoom institucional, por lo que pueden utilizarlo para reuniones virtuales.
+
+[Slack](https://slack.com) solÌa ser la plataforma de preferencia para grupos de ciencia colaborativa ("big team"). Era f·cil crear un grupo gratuito y conseguir que la gente se uniera. Sin embargo, con la reciente introducciÛn de un lÌmite de 90 dÌas para ver las publicaciones pasadas para la versiÛn gratuita, ya no puedo recomendarla. El descuento acadÈmico es del 85%, pero eso sigue siendo 0.78 dÛlares (EE.UU.) por usuario activo/a al mes, lo que hace que sea difÌcil de pagar para los equipos que son grandes y activos.
+
+* [Discord](https://discord.com/) tiene muchas de las mismas funciones y una interfaz de usuario similar a la de Slack, sin el lÌmite de 90 dÌas. TambiÈn tiene una funciÛn de chat de voz.
+
+* [Mattermost](https://mattermost.com/) es un clon de Slack de cÛdigo abierto, pero no lo he probado.
+
+[Basecamp](https://basecamp.com/) es una aplicaciÛn de gestiÛn de proyectos de la que he oÌdo buenas cosas, pero que no he probado. Solo es gratuita hasta 20 usuarios, y 99 dÛlares al mes despuÈs para equipos de cualquier tamaÒo, asÌ que probablemente no sea la primera opciÛn para un equipo nuevo.
+
+[Microsoft Teams](https://www.microsoft.com/en-us/microsoft-teams/free) puede parecer una buena alternativa si tu universidad ya la usar, pero registrarse desde una nueva organizaciÛn puede ser complicado y la aplicaciÛn de escritorio es un desastre para muchas personas.
+
+[GitHub Discussions](https://docs.github.com/en/discussions/quickstart) cpuede ser una buena soluciÛn si tu grupo ya tiene un enfoque de programaciÛn y la mayorÌa de los y las integrantes tienen o no se opondrÌan a obtener una cuenta de github (ver @sec-en-github). A pesar de ser el repositorio de referencia para el software de cÛdigo abierto, GitHub es propiedad de Microsoft, lo que puede afectar tu opiniÛn. El [Code Check Club](https://github.com/orgs/code-check-club/discussions) actualmente utiliza las discusiones de github para dar anuncios (los miembros pueden optar por un resumen por correo electrÛnico, "email digest"), pero la discusiÛn real ha disminuido realmente desde que nos mudamos fuera de Slack.
+
+[Canvas](https://www.instructure.com/canvas) se utiliza normalmente para la gestiÛn de la enseÒanza, pero la brillante Erin Buchanan ha reutilizado este software VLE/LMS de cÛdigo abierto para el [sitio de los/as miembros de la PSA](https://canvas.psysciacc.org/). No es algo que recomiende para un grupo nuevo, pero sÌ algo para pensar a medida que crece. Puede ser una soluciÛn todo en uno para el seguimiento de los/as miembros, los anuncios por correo electrÛnico y la gestiÛn de proyectos, pero requiere de un/a miembro/a con algunos conocimientos y recursos especializados para hospedar el sitio.
+
+## Medios Sociales {#sec-en-socialmedia}
+
+Ahora que ha establecido el principal canal de comunicaciÛn dentro de su equipo, es posible que desee utilizar las redes sociales para anunciar lo que est· haciendo y continuar con la contrataciÛn. Los principales aspectos que debe tener en cuenta antes de crear cuentas en las redes sociales son los siguientes
+
+* øQuiÈn es su audiencia objetivo? øMiembros actuales, nuevos miembros potenciales, personal acadÈmicos, el p˙blico en general?
+* øQuÈ medios sociales utilizan? 
+* øHay sectores de su audiencia que no pueden acceder a algunos medios sociales? Por ejemplo, Twitter es inaccesible para muchos/as acadÈmicos/as de China.
+* øQuÈ nombres est·n disponibles?
+
+Esto ˙ltimo puede parecer una tonterÌa, pero resulta molesto y confuso tener diferentes nombres en distintas plataformas porque tu nombre preferido no est· disponible en una de ellas. Elige un nombre que probablemente estÈ disponible en todas las redes sociales que vayas a utilizar, asÌ como en las plataformas de @sec-en-tools, como Google o GitHub.
+
+Recomiendo que se cree una cuenta en cada una de las  plataformas de redes sociales principales, incluso si no tienes intenciÛn de utilizarla mucho, sÛlo para asegurarte de que nadie m·s pueda tergiversar tu organizaciÛn tomando ese nombre. Basta con crear la cuenta e incluir un enlace a tu principal fuente de comunicaciÛn (por ejemplo, Twitter o una p·gina web).
+
+Puedes configurar la mayorÌa de estas cuentas utilizando el perfil de Google de tu grupo, lo cual es una buena manera de evitar tener demasiados datos de acceso que recordar. Sin embargo, es posible que tambiÈn quieras registrarte en un gestor de contraseÒas de grupo, como [1Password](https://1password.com/), para hacer un seguimiento de todos los inicios de sesiÛn y compartirlos con un grupo de gestiÛn.
+
+* [Twitter](https://help.twitter.com/en/using-twitter/create-twitter-account) es bueno para compartir anuncios
+* [Facebook Groups](https://www.facebook.com/help/167970719931213) es bueno para debates y involucramiento de la comunidad
+* [Instagram](https://help.instagram.com/182492381886913/) es bueno para compartir im·genes
+* [TikTok](https://www.tiktok.com/signup) es bueno para compartir vÌdeos cortos y atractivos
+* [YouTube](https://support.google.com/youtube/answer/161805) es bueno para compartir vÌdeos m·s largos y curar listas de reproducciÛn
+
+
+

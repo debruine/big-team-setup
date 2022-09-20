@@ -1,0 +1,113 @@
+# Gobernanza
+
+## Consejo Administrativo Provisional
+
+Lo primero que necesita una organización es una junta directiva provisional que asuma el trabajo descrito en el resto de este manual. Habrá muchas decisiones que tomar al principio y será más fácil hacerlo con un equipo más pequeño de 5 a 10 personas dedicadas. Por muy democrática que quieras que sea una organización, la mayoría de los miembros no tendrán la capacidad de opinar sobre cada decisión. 
+
+Establece una lista específica de tareas que la junta interina debe realizar durante un periodo de tiempo concreto, que finalizará con la elección de sus sustitutos. He aquí algunas ideas:
+
+* Nombre oficial y logotipo @sec-en-name
+* Seguimiento de los y las integrantes @sec-en-membership
+* Prácticas de trabajo @sec-en-practices
+* Política de autoría @sec-en-authorship
+* Código de conducta @sec-en-coc
+* Establecer canales de comunicación @sec-en-communication
+* Configurar las redes sociales @sec-en-socialmedia
+* Configurar herramientas de colaboración @sec-en-tools
+* Crear un sitio web @sec-en-website
+
+
+## Nombre y Logo {#sec-en-name}
+
+Reflexiona sobre el nombre oficial. Asegúrate de que es único, tiene un buen acrónimo o abreviatura y no tiene connotaciones negativas en otros idiomas. ManyXXXX es un estilo de nombre popular que indica que tu grupo tiene un propósito, valores y estructura similares a los de grupos como ManyBabies, ManyFaces, EEGManyLabs, ManyAnalysts, ManyPrimates, ManyDogs, ManyBirds, ManyGoats, ManyFishes, etc. También querrás que este nombre esté disponible en todos los servicios de redes sociales (@sec-en-socialmedia) y herramientas (@sec-en-tools) en los que te inscribas, y que dispongas de un nombre de dominio para un sitio web (@sec-en-domain).
+
+Asegúrate también de tener un buen logotipo. Necesitarás un logotipo cuadrado/circular para tu avatar en la mayoría de las redes sociales, y también una imagen tipo banner para algunas. Un buen logotipo es distintivo, claro en tamaños pequeños y no tiene demasiado texto. Varias siluetas de lo que estás estudiando parece ser una opción popular.
+
+Haz el logo en un formato que no tenga pérdida, como PNG, y utiliza un fondo transparente (a menos que tu logo sea realmente cuadrado). Comprueba también cómo se ve tu logo en fondos oscuros y claros ( ve   la parte superior izquierda de página para ver los logos de abajo en fondos claros y oscuros). 
+
+::: {#fig-logos layout="[[1,1,1,1],[1,1,1,1]]"}
+
+![Psychological Science Accelerator](images/psa-logo.png){fig-alt="Un círculo verde con tres flechas blancas apuntando a la derecha, como un símbolo de avance rápido"}
+
+![ManyBabies](images/manybabies-logo.png){fig-alt="Las letras MB rodeadas de bebés estilizados cogidos de la mano con pañales de distintos colores"}
+
+![ManyFaces](images/manyfaces-logo.png){fig-alt="Hexágono con lados de arco iris y tres rostros humanos en 3D en el centro; los rostros son de diferentes géneros y etnias, pero representados como mármol"}
+
+![ManyClasses](images/manyclasses-logo.png){fig-alt="Imagen abstracta naranja y azul que parece un libro abierto haciendo una vaga letra m"}
+
+![ManyDogs](images/manydogs-logo.png){fig-alt="Tres siluetas de perros superpuestas: azul, rojo y amarillo"}
+
+
+
+![ManyPrimates](images/manyprimates-logo.png){fig-alt="Cuatro siluetas de caras de primates superpuestas en distintos tonos de verde"}
+
+![ManyBirds](images/manybirds-logo.jpg){fig-alt="Una forma de huevo con siluetas de pájaros en su interior"}
+
+![ManyGoats](images/manygoats-logo.jpg){fig-alt="Un dibujo lineal de un círculo con siluetas de cabras"}
+
+
+Logotipos de equipos científicos colaborativos
+:::
+
+
+::: {#fig-logos layout="[[1], [1], [1]]"}
+
+![](images/psa-banner.jpg){fig-alt="Un globo aplanado con mares grises y masas de tierra blancas. Los puntos verdes representan la ubicación de los y las integrantes, que están por todo el mundo, pero concentrados en América del Norte y Europa."}
+
+![](images/manyfaces-banner.jpg){fig-alt="Seis caras en 3D que miran de izquierda a derecha en los colores del arco iris"}
+
+![](images/manydogs-banner.png){fig-alt="Tres siluetas de perros de diferentes tamaños saltando en medio de las palabras MANY y DOGS"}
+
+Banners de equipos científicos colaborativos
+
+:::
+
+## Seguimiento de la membresía {#sec-en-membership}
+
+¿Cómo va a mantener un registro de las personas afiliadas? Una organización nueva probablemente no cobrará cuotas, pero querrá saber de algún modo quiénes son sus integrantes. Inevitablemente, llegará el momento donde podrás escribir algo como "Tenemos 1,350 personas afiliadas de 82 países de todo el mundo" o hacer un mapa de las personas afiliadas, por lo que necesitarán una forma de llevar un registro. 
+
+El formulario de registro de intereses (@sec-en-reg-interest) puede servir como lista inicial de los y las miembros, pero probablemente quieras más información, como sus áreas de experiencia, los recursos que pueden aportar y las tareas que están dispuestos a asumir. ManyBabies tiene una brillante aplicación [membership tracker](https://manybabies.shinyapps.io/shiny_mb_map/) que muestra sus miembros en todo el mundo.
+
+Piensa en cómo llevarás la cuenta de los/as afiliados/as activos/as e inactivos/as. Puedes hacer que la afiliación dure para siempre (al menos hasta que se solicite la cancelación). La principal ventaja de esta estrategia es que el número de afiliados/as solo aumentará. Sin embargo, tendrás que lidiar con más correos electrónicos rebotados cada año y es difícil saber quién está siendo activo/a para efectos de planificación y capacidad. Como alternativa, se puede hacer que la afiliación sea por un periodo de tiempo determinado, como un año, y exigir que haya reincorporación cada año. Esto puede dar una visión más precisa de su afiliación, pero se corre el riesgo de perder a personas que simplemente se olvidaron de volver a afiliarse y es una molestia anual adicional para todas las personas.
+
+## Prácticas de trabajo {#sec-en-practices}
+
+Consulta otras organizaciones científicas colaborativas y determina el modelo que quieres utilizar para decidir qué proyectos llevar a cabo. Si tu grupo está formado en torno a un proyecto ya bien articulado, puedes saltarte este paso. 
+
+Por ejemplo, el [Psychological Science Accelerator](https://psysciacc.org/how-we-work/) tiene convocatorias formales de selección de estudios en las que las solicitudes de proyectos se presentan y luego son evaluadas por los revisores/as y por todos/as los/as miembros antes de que un comité de selección de estudios elija los proyectos que pueden llevarse a cabo, dada la capacidad actual de la red.
+
+ManyBabies utiliza un [formulario de propuesta de proyecto] formal (https://docs.google.com/document/d/1kbnK2us2Svfcf7X4TAI5YUw3_duUNAQoYINTuuWr1Jw/edit), pero no tiene convocatorias específicas con fechas límite. Actualmente, ManyFaces tiene un proceso mucho menos formal en el que los proyectos de trabajo se proponen en un canal de discusión y, una vez que el proponente considera que hay suficiente interés, se forma un grupo de trabajo. 
+
+## Política de autoría {#sec-en-authorship}
+
+También es importante acordar la forma de abordar la autoría. Hágalo **antes** de que surjan problemas. ManyBabies tiene una excelente [política de autoría](https://manybabies.github.io/authorship/).
+
+Considere la [taxonomía de funciones de los/as colaboradores/as de CRediT](https://www.niso.org/publications/z39104-2022-credit) y la [aplicación tenzing](https://rollercoaster.shinyapps.io/tenzing/) para documentar las funciones de los colaboradores.
+
+## Código de conducta {#sec-en-coc}
+
+Un código de conducta establece los valores, las normas y las responsabilidades de los y las miembros de forma clara. Aunque un código de conducta en sí mismo no evita malos comportamientos, es el primer paso para señalar los valores de la organización.
+
+Un código de conducta debe incluir (adaptado de [How to Respond to Code of Conduct Reports](https://files.frameshiftconsulting.com/books/cocguide.pdf))
+
+* Una breve declaración que describa el objetivo del código de conducta
+* Una lista de comportamientos inaceptables
+* Una descripción de dónde se aplica el código de conducta
+* Una lista de las posibles consecuencias de la violación del código de conducta
+* Instrucciones detalladas, específicas y sencillas para denunciar una infracción del código de conducta
+* Una lista de las personas que se encargarán de la denuncia del código de conducta
+* Una promesa de que cualquier persona directamente involucrada en una queja se recusará
+
+Existen varios recursos útiles para elaborar un código de conducta:
+
+* [Contributor Covenant](https://www.contributor-covenant.org/): especializado en proyectos de software de código abierto
+* [Cómo responder a las quejas del código de conducta](https://files.frameshiftconsulting.com/books/cocguide.pdf): Consejos con mas detallados
+* [Política antiacoso de la comunidad del feminismo geek](https://geekfeminism.fandom.com/wiki/Community_anti-harassment)
+
+Y aquí hay algunos modelos útiles para un código de conducta:
+
+* [Psychological Science Accelerator](https://psysciacc.org/code-of-conduct/)
+* [ManyBabies](https://manybabies.github.io/code_conduct/)
+* [Big Team Science Conference](https://bigteamscienceconference.github.io/codeofconduct/)
+* [Society for the Improvement of Psychological Science](https://improvingpsych.org/sipsinaction/code/)
+* [PsychMAP Facebook Group](https://www.facebook.com/notes/psychmap/how-psychmap-works-please-read-before-joining/301933333516929/)

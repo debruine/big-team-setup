@@ -1,0 +1,131 @@
+# Üye Alımı
+
+Benim Psychological Science Accelerator'a dahil olmam 2017'de [Chris Chartier'ın bir tweet'i](https://twitter.com/CRChartier/status/901500936727781376) ile başladı. Ve 5 yıl sonra, ManyFaces [bir diğeri](https://twitter.com/LisaDeBruine/status/1486807497608466435) ile başladı.
+
+::: {#fig-tweets .light-mode layout-ncol=2}
+
+![](images/psa-tweet-light.png){fig-alt="Tweet from Chris Chartier: It's time to begin building a CERN for Psychological Science" style="border:2px solid #009A2A;"}
+
+![](images/manyfaces-tweet-light.png){fig-alt="Tweet from Lisa DeBruine: Big Team Science is growing. I've loved my involvement with @PsySciAcc and think teams like this and @Many_Babies, @BrRepInitiative, @ManyPrimates etc. are the future of science. So I've been wondering if it's time to start ManyFaces." style="border:2px solid purple;"}
+
+Büyük ekip bilimi gruplarını başlatan tweet'ler.
+:::
+
+::: {#fig-tweets-dark .dark-mode layout-ncol=2}
+
+![](images/psa-tweet-dark.png){fig-alt="Tweet from Chris Chartier: It's time to begin building a CERN for Psychological Science" style="border:2px solid #009A2A;"}
+
+![](images/manyfaces-tweet-dark.png){fig-alt="Tweet from Lisa DeBruine: Big Team Science is growing. I've loved my involvement with @PsySciAcc and think teams like this and @Many_Babies, @BrRepInitiative, @ManyPrimates etc. are the future of science. So I've been wondering if it's time to start ManyFaces." style="border:2px solid purple;"}
+
+Büyük ekip bilimi gruplarını başlatan tweet'ler.
+:::
+
+Twitter veya diğer sosyal medya platformları büyük ekip bilimi grupları başlatma isteğini ölçmek için çok iyi bir yoldur. Eğer çok ilgi olursa bu ivmeyi korumak için hızlı bir şekilde organize olmaya hazır olmanız gerekir.
+
+## İlgilenenleri kaydetme {#sec-tr-reg-interest}
+
+Grupla ilgilenenleri kaydetmek için hızlıca [Google form](https://docs.google.com/forms/) üzerinden bir anket oluşturabilirsiniz. Böylece, eğer hemen başlayacak zamanınız yoksa sonradan iletişime geçmek için, ilgilenen herkesin yer aldığı bir liste oluşturabilirsiniz. Ayrıca, kimlerin Twitter ileti dizileriyle, e-postalarla, Facebook gönderiyle ilgilendiğini takip etmeden üye katılımını merkezileştirmenin de bir yoludur.
+
+Katılım formunu kısa ve kolay olacak şekilde hazırlayın:
+
+* İsim
+* E-posta
+* Lokasyon/Kurum
+* Yorumlar için serbest metin alanı
+
+Ayrıca, biraz özel sorular da sorabilirsiniz. Örneğin, ManyFaces'in formunda aşağıdakiler soruldu:
+
+Hangisi üzerinden tartışmayı tercih edersiniz:
+
+- [ ] Canlı konuşma (örn. Zoom)
+- [ ] Asenkron mesajlaşma (örn. slack/Teams/ortak bir Google Dokümanlar belgesi)
+
+Bir konsorsiyum ile ne oluşturmak istersiniz?
+
+- [ ] Uyaran veri tabanı
+- [ ] Yeni uyaran koleksiyonları
+- [ ] Yeni uyaranlar veya çalışma protokolleri
+- [ ] Veri toplamada iş birliği
+- [ ] Diğer...
+
+## Beyin Fırtınası Belgesi
+
+ManyFaces ve Code Check Club için gerçekten işe yarayan şeylerden biri beyin fırtınası belgeleri oluşturmak oldu. Bu, fikirleri toplamak ve organize etmek için Twitter veya forum paylaşımlarından daha iyi bir yoldur. 
+
+* [ManyFace beyin fırtınası](https://docs.google.com/document/d/1X6b3am7zwDYXT2-TUR-a85-xG-cdrE8_vz9GICbwAl0/edit)
+* [Code Review Guide beyin fırtınası](https://docs.google.com/document/d/1cqrRDEYkhtZT9QRruZmUnPPN00VEo0fKV7cEyoluMnU/edit)
+
+[Google Dokümanlar](https://docs.google.com/) bir beyin fırtınası belgesi oluşturmak için ideal bir araçtır. Sadece bir belge oluşturun ve belgenin bağlantısına sahip olan herkesin düzenleme yapabileceği (ya da en azından yorum yapabileceği) şekilde paylaşım ayarlarını güncelleyin. 
+
+![](images/google-doc-sharing.png){fig-alt="Google Docs sharing interface showing the options for Anyone with a link: viewer, Commenter, Editor (checked)"}
+
+### Yapı
+
+Ben beyin fırtınası belgesini aşağıdaki gibi başlıklar ile yapılandırırdım (aslında kullanışlı bir ana hat elde etmek için başlık stillerini kullanabilirsiniz):
+
+* **Amaç**: belgenin amacını ve nasıl kullanılacağını açıklayın
+* **Duyurular**: duyurular yapmak ve görevler eklemek için en üstte bir boşluk ayırın
+* **Temel Değerler**: bu grubu bir araya getiren değerler nelerdir?
+* **Katkı Sağlayanlar**: kendinizi tanıtın, sizi bu gruba neyin getirdiğini ve bu gruptan ne elde etmeyi umduğunu yazın
+* **Kaynaklar**: potansiyel grup üyeleri zaman, uzmanlık, ekipman veya materyal açısından ne gibi katkılar sağlamak zorundalar?
+* **Sorular/Hedefler**: bu grubun ele alacağı sorular veya grubun kapsayıcı hedefleri nelerdir?
+* **Fikirler**: grubun ne yapabileceği konusunda tüm fikirlerinizi listeleyin; hiçbir fikir bu aşamada çok büyük/küçük değildir
+* **Zorluklar**: insanlar bu grubu kurmak ve sürdürmek için ne gibi engeller görüyor?
+* **Organize Etme**: bu grubu başlatmak için nelerin yapılmasının gerektiğini listeleyin (bu kılavuzun geri kalanı bu konuda yardımcı olacaktır)
+
+
+### Temel Değerler
+
+Temel değerlerin bir listesi, gruba katılan kişilerin aynı amaç ve değerlere sahip olmasını sağlamaya yardımcı olabilir. Aşağıdaki örnekleri kullanarak işe başlayabilir ve gruptan bu listeyi ayrıntılandırmasını isteyebilirsiniz.
+
+::: {style="border: 2px solid purple; padding: 0 1em;"}
+
+#### ManyFaces Temel Değerleri {-}
+
+* Etik 
+    * Kişisel verilerin korunumu
+    * Yapay zekanın/yüz tanımanın uygunsuz kullanımından kaçınmak ve uygunsuz kullanımına karşı çıkmak
+* Çeşitlilik ve Kapsama
+    * Bölge, kariyer aşaması, bilim dalı, metodoloji, toplumsal cinsiyet, milliyet vd. konularda çeşitlilik 
+    * "Zenginleri daha da zenginleştirmeyin"
+    * Daha fazla kaynağa sahip laboratuvarlar, daha az kaynağa sahip laboratuvarlara ve bireysel araştırmacılara yardım etme sorumluluğuna sahiptir.
+* Şeffaflık
+    * Kaynakların ve elde edilen sonuçların etiğin izin verdiği ölçüde açık bir şekilde paylaşılması
+    * Her üye her karara dahil olamasa da karar verme süreci herkese açık olmalıdır.
+
+:::
+
+
+::: {style="border: 2px solid #006D97; padding: 0 1em; margin-top: 1em;"}
+
+#### ManyBabies Prensipleri {-}
+
+* **Şeffaflık**: Bir MB projesinde tasarımdan yayına kadar tüm kararlar mümkün olduğunda şeffaftır.
+* **İş birliği içinde yönetim**: Mümkün ve uygulanabilir olduğu sürece kararlar ortak ve şeffaf bir şekilde alınır.
+* **Kapsayıcılık ve çeşitlilik**: MB, çeşitliliği artırma çabalarını açıkça desteklemektedir. Bu, yeterince temsil edilmeyen topluklardaki laboratuvarların katılımına yardımcı olmak için ödenek bulma başvurularını, sosyal çardım çabalarını ve atölyeler planlamayı içerir.
+* **Etik araştırma**: MB projeleri en iyi uygulamalara ve yüksek etik standartlara bağlıdır.
+* **Saygı**: Herkes, saygı içerisindeki etkileşimleri garanti altına alan genel davranış kurallarını kabul eder.
+
+:::
+
+::: {style="border: 2px solid #009A2A; padding: 0 1em; margin-top: 1em;"}
+
+#### PSA Temel Prensipleri {-}
+
+* Çeşitlilik ve kapsama
+* Merkezi olmayan otorite
+* Şeffaflık
+* Dikkat/titizlik
+* Eleştiriye açıklık
+
+Daha fazla detay için [PSA web sitesini](https://psysciacc.org/) inceleyin.
+
+:::
+
+## Organizasyonu Başlatmak
+
+Eğer kayıtlar ve yapılan katkılar pek etkileyici değilse endişelenmeyin. Bu grubu başlatmak için doğru zaman olmayabilir. Büyük ekip bilimi grubu organize etmek tek bir kişi için çok fazla iş yükü olabilir. Bu sebeple hevesli üyelerin ve kendini bu işe adamış temel bir grubun varlığından emin olun.
+
+Eğer çok fazla kişi bir grup başlatmak için kaydolursa birçoğu beyin fırtınası belgesine katkıda bulunacaktır. Böylece, yardım etmek için zamanı, hevesi ve fikirleri olan temel kişiler hazırdır. İşte şimdi organize etmeye başlamanın zamanı! Bir sonraki adımınız yönetim sistemini hazırlamaktır.
+
+

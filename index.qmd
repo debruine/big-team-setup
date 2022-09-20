@@ -1,9 +1,24 @@
 # Overview {-}
 
+:::{.panel-tabset}
+
+## English
+
 This guide is one of the "talks" for [ABRIR](https://abrirpsy.org)'s workshop series: [Increased Representation: A Vision for Inclusive Big-team Science](https://abrirpsy.org/program-updated-increased-representation-workshop-series/). The author, Lisa DeBruine, will be available to answer questions asynchronously on the workshop Slack during the conference, 22-24 September 2022.
 
 This guide is aimed at people wanting to start a big team science group from the grassroots, with little or no financial or administrative support. It will cover the organisational aspects of how you recruit members, set up governance, communicate with the team, set up and use social media accounts, use tools for collaboration, and set up a website. 
 
 Remember that this is only one perspective. My qualifications for giving advice are being a founding member and current Associate Director of the [Psychological Science Accelerator](https://psysciacc.org), the founder of [ManyFaces](https://twitter.com/ManyFacesTeam), organiser of the [Code Check Club](https://github.com/code-check-club), and having previously been the web and communications officer for the Human Behavior and Evolution Society and the European Human Behaviour and Evolution Association. I've had the enormous privileges of being a first-language English speaker at a supportive, well-funded, research intensive university in Scotland. I hope that this guide can be the start of a more extensive guide with more voices and perspectives.
 
+## Español
 
+Esta guía es una de las "charlas" de la serie de talleres de [ABRIR](https://abrirpsy.org): [Mayor representacion: Una Visión para la Ciencia Inclusiva de Grandes Equipos](https://abrirpsy.org/program-updated-increased-representation-workshop-series/). La autora, Lisa DeBruine, estará disponible para responder preguntas de forma asíncrona en el taller de Slack durante la conferencia, del 22 al 24 de septiembre de 2022.
+
+Esta guía está dirigida a personas que deseen iniciar equipos de ciencia colaborativa (Big-Team) desde las bases, con poco o ningún apoyo financiero o administrativo. Se cubirán los aspectos organizativos de cómo reclutar miembros, configurar la gobernanza, comunicarse con el equipo, configurar y utilizar cuentas de redes sociales, utilizar herramientas de colaboración y crear un sitio web.
+
+Recuerde que esta es solo una perspectiva. Mis cualificaciones para dar consejos son ser miembro fundadora y actual Directora Asociada del [Psychological Science Accelerator](https://psysciacc.org), fundadora de [ManyFaces](https://twitter.com/ManyFacesTeam), organizadora del [Code Check Club](https://github.com/code-check-club), y habiendo sido anteriormente responsable de las p·ginas web y comunicaciones de Human Behavior and Evolution Society y de European Human Behavior and Evolution Association. He tenido el enorme privilegio de ser hablante de inglés como primer idioma en una universidad intensiva en investigación, bien financiada y solidaria en Escocia. Espero que esta guía pueda ser el comienzo para una guía más extensa con más voces y perspectivas.
+
+
+
+
+:::

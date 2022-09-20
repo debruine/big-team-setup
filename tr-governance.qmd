@@ -1,0 +1,113 @@
+# Yönetim
+
+## Geçici Kurul 
+
+Bir kuruluşun ihtiyaç duyduğu ilk şey, bu kılavuzun devamında yer alan işleri üstlenebilecek olan geçici bir kuruldur. Başlangıçta karar verilmesi gereken birçok konu olacaktır ve bu kararları 5-10 kişilik bir ekiple yapmak işleri kolaylaştıracaktır. Organizasyonun ne kadar demokratik olmasını isterseniz isteyin, çoğu üye her kararda rol oynayacak kadar vakte sahip olmayabilir.  
+
+Geçici kurulun görev süresince halletmesi gereken ve yerine geçecek kişilerin göreve gelmesiyle birlikte bitecek olan zaman aralığını belirlenmesi ve bu aralıkta yapılması geren işler hakkında bir görev listesi oluşturulabilir. Bunlardan bazıları:
+
+* Resmi isim ve logo @sec-tr-name
+* Üyelik takibi @sec-tr-membership
+* Uygulama pratikleri @sec-tr-practices
+* Yazarlık politikası @sec-tr-authorship
+* Davranış kuralları @sec-tr-coc
+* İletişim kanallarının hazırlanması @sec-tr-communication
+* Sosyal medya hesaplarının kurulması @sec-tr-socialmedia
+* İş birliği araçlarının ayarlanması @sec-tr-tools
+* İnternet sitesi kurulumu @sec-tr-website
+
+## İsim ve Logo {#sec-tr-name}
+
+Organizasyonun ismi iyi düşünülmüş olmalı. Bu isim daha önce kullanılmamış, kulağa hoş gelecek şekilde kısaltılabilen, diğer dillerde olumsuz anlamlara gelmeyen bir isim olmalıdır. Örneğin, ManyXXXX sıkça kullanılan bir marka ismidir. Bu isim, grupların benzer amaç, değer ve yapıyı taşıdığını gösterir (ManyBabies, ManyFaces, EEGManyLabs, ManyAnalysts, ManyPrimates, ManyDogs, ManyBirds, ManyGoats, ManyFishes vs.). Ayrıca, seçtiğiniz bu marka ismi, bütün sosyal medya platformlarında, (@sec-tr-socialmedia) kullanılacak araçlarda, (@sec-tr-tools) ve internet siteleri için gerekecek domain isminde (@sec-tr-domain) kullanıma uygun olmalıdır. 
+
+Ayrıca, iyi bir logonuz olmalıdır. Çoğu sosyal medya sitesi için bir yuvarlak ya da karenin içinde simgenizin yer aldığı bir logoya ihtiyaç duyulur. Bunun dışında, afiş formatında bir resim de kullanılabilir. İyi bir logo ayırt edilebilen, az metin içeren, küçük boyutlarda bir logodur. Çalıştığınız alana dair siluetler kullanmak sıkça başvurulan yollar arasındadır. 
+Logonun formatı PNG gibi transparan zemin kullanılarak oluşturulmalıdır (logonuz kare değilse). Ayrıca, koyu ve açık arka planlarda logonuzun nasıl göründüğünü kontrol etmelisiniz (açık ve koyu planlarda nasıl göründüğünü kontrol etmek için sol üstten bu sayfayı değiştirebilirsiniz).  
+
+::: {#fig-logos layout="[[1,1,1,1],[1,1,1,1]]"}
+
+![Psychological Science Accelerator](images/psa-logo.png){fig-alt="A green circle with three white arrows pointing to the right, like a fast-forward symbol"}
+
+![ManyBabies](images/manybabies-logo.png){fig-alt="The letters MB surrounded by stylised babies holding hands with different-coloured nappies"}
+
+![ManyFaces](images/manyfaces-logo.png){fig-alt="Hexagon with rainbow sides and three 3D human faces in the middle; the faces are different genders and ethnicities, but rendered like marble"}
+
+![ManyClasses](images/manyclasses-logo.png){fig-alt="Abstract orange and blue image that looks like an open book making a vague letter m"}
+
+![ManyDogs](images/manydogs-logo.png){fig-alt="Three dog silhouettes superimposed: blue, red and yellow"}
+
+
+
+![ManyPrimates](images/manyprimates-logo.png){fig-alt="Four primate face silhouettes superimposed in varying shades of green"}
+
+![ManyBirds](images/manybirds-logo.jpg){fig-alt="An egg shape with bird silhouettes inside"}
+
+![ManyGoats](images/manygoats-logo.jpg){fig-alt="A line drawing of a circle with silhouettes of goats"}
+
+
+Büyük ekip bilimi logoları
+:::
+
+
+::: {#fig-logos layout="[[1], [1], [1]]"}
+
+![](images/psa-banner.jpg){fig-alt="A flattened globe with grey seas and white land masses. Green dots represent the locations of members, The are all over the world, but concetrated in North America and Europe."}
+
+![](images/manyfaces-banner.jpg){fig-alt="Six 3D faces looking from left to right in rainbow colours"}
+
+![](images/manydogs-banner.png){fig-alt="Three silhouettes of different-sized dogs leaping in the middle of the words MANY and DOGS"}
+
+Büyük ekip bilimi banner’ları
+
+:::
+
+## Üyelik Takibi {#sec-tr-membership}
+
+Üyelik takibi nasıl yapılmalıdır? Yeni kurulan bir organizasyon genelde aidat toplamaz, bu yüzden kimlerin dahil olduğunu bilmek için başka yollar gereklidir. Organizasyonlar kaçınılmaz bir şekilde "82 ülkede 1350 üyeye sahibiz!" şeklinde üyeliklerin haritasını gösteren bir bilgilendirme yapmak isteyeceklerdir. 
+
+Öncelikle ilgi alanı kayıt formu (@sec-tr-reg-interest) ilk üyeliklerin takibi açısından kullanılabilir. Ancak, üyelerin uzmanlık alanları katkı sağlayabilecekleri konular ve üstlenmek istedikleri görevler gibi konularda daha fazla bilgi sahibi olmak istemeniz muhtemeldir. ManyBabies dünya çapındaki üyeliklerini gösteren bir üye takip uygulamasına sahiptir.[membership tracker](https://manybabies.shinyapps.io/shiny_mb_map/) 
+
+Bir diğer konu ise, aktif olan ve aktif olmayan üyelerin takibinin nasıl yapılacağıdır. Üyelikleri bir üyelikten ayrılma talebi almadığınız sürece sonsuza dek sürdürebilirsiniz. Bu stratejinin en büyük avantajı üye sayınızda sürekli bir artış olacak olmasıdır. Öte yandan, her yıl daha fazla geri dönen e-posta ile karşılaşırsınız. Ayrıca, etkinliklerinizi planlarken kimin aktif olduğunu ya da kapasiteyi belirlerken güçlükler yaşayabilirsiniz. Bu sebeple alternatif bir çözüm olarak, üyelikleri bir yıl gibi ya da bir sene sonunda tekrar katılım gerecek şekilde belli bir zamanla sınırlandırabilirsiniz. Bu sayede, üyelikleriniz hakkında daha doğru ve gerçekçi bilgiler edinebilirsiniz. Ancak, bu yolun da riskleri olduğu unutulmamalıdır. Yeniden katılmayı unutabileceklerini ve bu sistemin yılda bir uğraşı gerektireceğini unutmamak gerekir. 
+
+## Uygulama Pratikleri {#sec-tr-practices}
+
+Diğer bazı büyük ekip bilimi organizasyonlarına bakın ve hangi projelerin yürütüleceğine karar vermek için hangi modeli kullanmak istediğinize karar verin. Eğer grubunuzun iyi bir zemine oturtulmuş bir projesi varsa, bu adımı atlayabilirsiniz. 
+
+Örneğin, [Psychological Science Accelerator](https://psysciacc.org/how-we-work/)  resmi bir şekilde çalışma seçim çağrıları yapar. Burada proje başvuruları yapılır ve sonra iletişim ağının mevcut kapasitesi göz önüne alındığında, çalışma seçim komitesi yürütülecek projeleri seçmeden önce projeler eleştirmenler ve tüm üyeler tarafından değerlendirilir.
+
+ManyBabies [project proposal form](https://docs.google.com/document/d/1kbnK2us2Svfcf7X4TAI5YUw3_duUNAQoYINTuuWr1Jw/edit), resmi bir proje öneri formu kullanmaktadır ancak son teslim tarihi konusunda belli bir sınırlandırma yoktur. ManyFaces şu anda daha az resmi bir sürece sahip bir uygulamadır. Burada, iş projeleri tartışma kanalları aracılığıyla görüşülür, değerlendilir ve buna göre yeterli ilgi olduğu takdirde çalışma grupları oluşturulabilir.  
+
+## Yazarlık Politikası {#sec-tr-authorship}
+
+Yazarlığın hangi kıstaslarla verileceği, üzerinde anlaşmaya varılması gereken önemli bir konudur. Bu konu sorunlar ortaya çıkmadan **önce** yapılmalıdır. [authorship policy](https://manybabies.github.io/authorship/).
+
+Katkıda bulunanların rollerini belirleyebilmek ve bu rollerin sınıflandırılması için [CRediT contributor roles taxonomy](https://www.niso.org/publications/z39104-2022-credit) ve [tenzing app](https://rollercoaster.shinyapps.io/tenzing/) uygulamaları kullanılabilir. 
+
+
+## Davranış Kuralları {#sec-tr-coc}
+
+Davranış kuralları, üyelik değerlerini, standartlarını ve görevlerini net bir şekilde ortaya koyar. Bu kuralların var olması kötü davranışları engellemez ancak organizasyonunuzun değerleri hakkında bilgi vermenin ilk adımıdır.
+İletişim kurma kuralları şunları içermelidir (adapted from [How to Respond to Code of Conduct Reports](https://files.frameshiftconsulting.com/books/cocguide.pdf)):
+
+* Davranış kurallarının amacını açıklayan kısa bir açıklama metni  
+* Kabul görmeyecek davranışlar listesi  
+* Bu davranış kurallarının nerede geçerli olacağı  
+* Davranış kurallarını ihlal etmenin olası sonuçları  
+* Davranış kuralların ihlalinin nasıl bildirilebileceği hakkında detaylı, spesifik, basit talimatları içeren bir liste  
+* Davranış kuralların raporunu ele alabilecek kişilerin listesi  
+* Bir ihlal söz konusu olduğunda kişinin üyelikten çekileceğine dair söz 
+
+Davranış kurallarını geliştirebilmek adına kullanılabilecek kaynaklar: 
+
+* [Contributor Covenant](https://www.contributor-covenant.org/): açık kaynaklı yazılım projeleri için geliştirilmiş  
+* [How to Respond to Code of Conduct Reports](https://files.frameshiftconsulting.com/books/cocguide.pdf): içten bir tavsiye  
+* [Geek feminism community anti-harassment policy](https://geekfeminism.fandom.com/wiki/Community_anti-harassment)
+
+İletişim ve davranış kuralları geliştirirken kullanılabilecek modeller: 
+
+* [Psychological Science Accelerator](https://psysciacc.org/code-of-conduct/)
+* [ManyBabies](https://manybabies.github.io/code_conduct/)
+* [Big Team Science Conference](https://bigteamscienceconference.github.io/codeofconduct/)
+* [Society for the Improvement of Psychological Science](https://improvingpsych.org/sipsinaction/code/)
+* [PsychMAP Facebook Group](https://www.facebook.com/notes/psychmap/how-psychmap-works-please-read-before-joining/301933333516929/)
+
+

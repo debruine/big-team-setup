@@ -1,0 +1,77 @@
+# Takım İletişimi {#sec-tr-communication}
+
+Ekibinizin iletişim kurması gerekecek. Yapılması gereken iki temel karar vardır: duyuruların nasıl yapılacağı ve tartışmaların nasıl yapılacağı. Ayrıca, hemen kullanmayı planlamıyor olsanız bile, muhtemelen bir dizi sosyal medya hesabı oluşturmak isteyeceksiniz.
+
+## Duyurular
+
+E-posta muhtemelen duyuru yapmanın en yaygın yoludur.
+
+Tüm üyelere tek tek e-posta göndermektense, bir e-posta listesi kullanmak neredeyse her zaman tercih edilir. (İlkini başlangıçta yapmanız gerekiyorsa; **lütfen** herkese cevap yazdığınız bir fiyaskoyu önlemek için CC e-postalarını saklayın.) Yönetilen bir e-posta, kişilerin kaydolmasına ve kendilerini listeden çıkarmasına olanak tanır ve geçerli istenmeyen posta önleme yasalarına uyduğunuzdan emin olmanızı sağlar. 
+
+![Google Groups Setup](images/google-groups-setup.png){fig-alt="Google groups setup showing options for who can join the group: Only invited users, Anyone can ask, Anyone can join" style="float:right; max-width: 50%; margin-left: 1em;"}
+
+* [Google Gruplar](https://groups.google.com)
+  - Kurulması çok kolay 
+  - Sınırsız üye sayısı ve mesaj
+  - Basit arayüz; istatistiklerin elde edilmesi daha zor
+* [MailChimp](https://mailchimp.com/en-gb/pricing/marketing/)
+  - ücretsiz hesapta 500 kişi, ayda 2500 e-posta ve günde 500 e-posta sınırı vardır 
+  - Kâr amacı gütmeyen kuruluşlar için ücretli hesaplarda %15 indirim
+  - E-posta erişimiyle ilgili güzel şablonlar ve istatistikler 
+* [WordPress](https://www.wpbeginner.com/beginners-guide/how-to-build-an-email-list-in-wordpress-email-marketing-101/)
+  - WordPress'te (@sec-tr-wordpress) bir web sitesi oluşturacaksanız, bunu üyeleri yönetmek ve e-posta göndermek için de kullanabilirsiniz.  
+
+Muhtemelen ilk başta geçici duyurular için posta listenizi kullanacaksınız. Organizasyonunuz olgunlaştıkça, muhtemelen düzenli bir haber bülteni oluşturmak isteyeceksiniz. 
+
+
+## Tartışmalar
+
+Grubunuzun tartışacak çok şeyi olacak ve bunu yapmak için bir foruma ihtiyacı olacak. Bir platform seçerken dikkate alınması gereken bazı şeyler:
+
+* Platform tüm üyeler için erişilebilir mi?
+* Üyeler, mesajlar, zaman, kanallar, arşivleme açısından limitler nelerdir?
+* Hizmet ücretsiz mi ve ekibiniz büyüdükçe aynı şekilde devam etmesi muhtemel mi?
+* Platform, projelerinizin karmaşıklığı için yeterli kanal ve mesaj dizisi sağlıyor mu? Örneğin insanlar sadece ilgilendikleri kanallara abone olabilir mi?
+* Hizmet, kullanmak isteyebileceğiniz diğer araçlarla entegre oluyor mu? (ör. Google Drive, takvimler)
+* Entegre görüntülü sohbete ihtiyacınız var mı? Çoğu akademisyenin kurumsal Zoom'a erişimi vardır, bu nedenle bunu sanal toplantılar için kullanabilir.
+
+[Slack](https://slack.com) eskiden büyük ekip bilimi için başvurulacak platformdu. Ücretsiz bir grup oluşturmak ve insanların katılmasını sağlamak kolaydı. Ancak, ücretsiz sürüm için geçmiş gönderileri görüntülemeye ilişkin 90 günlük bir sınırın kısa süre önce tanıtılmasıyla, artık onu tavsiye edemiyorum. Akademik indirim %85'tir, ancak bu yine de aktif kullanıcı başına aylık 0,78 ABD doları etmektedir. Bu da büyük, aktif ekiplerin karşılanmasını zorlaştırır.
+
+* [Discord](https://discord.com/) 90 gün sınırı olmaksızın Slack'e benzer birçok özelliğe ve benzer bir kullanıcı arayüzüne sahiptir. Ayrıca sesli sohbet özelliği vardır.
+
+* [Mattermost](https://mattermost.com/) açık kaynaklı bir Slack klonudur, ancak denemedim.
+
+[Basecamp](https://basecamp.com/), hakkında iyi şeyler duyduğum ama denemediğim bir proje yönetimi uygulaması. Yalnızca 20 kullanıcıya kadar ücretsizdir ve bundan sonra her büyüklükteki ekip için aylık 99 ABD doları ücreti vardır. Bu nedenle muhtemelen yeni bir ekip için ilk tercih değildir.
+
+[Microsoft Teams](https://www.microsoft.com/en-us/microsoft-teams/free), eğer üniversiteniz zaten kullanıyorsa iyi bir alternatif gibi görünebilir, ancak yeni bir kuruluşa kaydolmak zor olabilir ve masaüstü uygulaması çoğu insan için bir felakettir.
+
+[GitHub Discussions](https://docs.github.com/en/discussions/quickstart), grubunuzun zaten bir kodlama odağı varsa ve çoğu üyenin bir github hesabı varsa veya oluşturmak için itirazı yoksa iyi bir çözüm olabilir (bkz. @sec-tr-github). Açık kaynaklı yazılımlar için başvurulan depo olmasına rağmen GitHub, Microsoft'a aittir, bu nedenle fikrinizi etkileyebilir. [Code Check Club](https://github.com/orgs/code-check-club/discussions) şu anda duyurular için github tartışmalarını kullanıyor (üyeler bir e-posta özetine dahil olabilir), ancak Slack'ten ayrıldığımızdan beri gerçek tartışmalar gerçekten azaldı.
+
+[Canvas](https://www.instructure.com/canvas) normalde dersleri yönetmek için kullanılır, ancak parlak zekalı Erin Buchanan, bu açık kaynaklı VLE/LMS yazılımını [PSA Üye sitesi](https://canvas.psysciacc.org/) için uyarladı. Yeni bir grup için tavsiye edeceğim bir şey değil, ama büyüdükçe düşünmeniz gereken bir şey. Üyeliği, e-posta duyurularını ve proje yönetimini izlemek için hepsi bir arada bir çözüm olabilir, ancak siteyi yönetmek için bazı uzman becerilere ve kaynaklara sahip bir üye gerektirir.
+
+## Sosyal Medya {#sec-tr-socialmedia}
+
+Artık ekibinizdeki ana iletişim kanalını kurduğunuza göre, yaptığınız şeyin reklamını yapmak ve üye toplamaya devam etmek için sosyal medyayı kullanmak isteyebilirsiniz. Sosyal medya hesaplarını oluşturmadan önce göz önünde bulundurmanız gereken başlıca şeyler şunlardır:
+
+* Hedef kitleniz kim? Mevcut üyeler, potansiyel yeni üyeler, akademisyenler, halk?
+* Hangi sosyal medyayı kullanıyorlar? 
+* Kitlenizin bazı sosyal medyalara erişemeyen bölümleri var mı? Örneğin, Twitter birçok Çinli akademisyen için erişilemez durumda.
+* Hangi isimler boşta?
+
+Bu sonuncusu aptalca görünebilir, ancak tercih ettiğiniz isim kanalların birinde kullanılabilir olmadığı için farklı kanallarda farklı isimlere sahip olmak can sıkıcı ve kafa karıştırıcıdır. Google veya GitHub gibi @sec-tr-tools 'taki platformların yanı sıra kullanacağınız tüm sosyal medyada kullanılabilir muhtemel bir isim seçin. 
+
+Çok fazla kullanmayı düşünmüyorsanız bile, sırf başka hiç kimsenin bu ismi alarak kuruluşunuzu yanlış tanıtmayacağından emin olmak için büyük sosyal medya platformlarının her birinde bir hesap oluşturmanızı tavsiye ederim. Sadece hesabı oluşturun ve ana bilgi kaynağınıza (ör. Twitter veya bir web sayfası) bir bağlantı ekleyin.
+
+Bu hesapların çoğunu grubunuzun Google profilini kullanarak oluşturabilirsiniz; bu, hatırlanacak çok fazla giriş detayından kaçınmanın iyi bir yoludur. Ancak, tüm oturum açmaları takip etmek ve bunları bir yönetim grubuyla paylaşmak için [1Password](https://1password.com/), gibi bir grup şifre yöneticisine kaydolmak da isteyebilirsiniz.
+
+* [Twitter](https://help.twitter.com/en/using-twitter/create-twitter-account) duyuruları paylaşmak için iyidir
+* [Facebook Groups](https://www.facebook.com/help/167970719931213) tartışmalar ve topluluk katılımı için iyidir
+* [Instagram](https://help.instagram.com/182492381886913/) görüntüleri paylaşmak için iyidir
+* [TikTok](https://www.tiktok.com/signup) kısa, ilgi çekici videolar paylaşmak için iyidir
+* [YouTube](https://support.google.com/youtube/answer/161805) daha uzun videolar paylaşmak ve oynatma listelerini düzenlemek için iyidir
+
+
+
+
+
+
