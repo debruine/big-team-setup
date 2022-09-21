@@ -57,7 +57,7 @@ Algo que funcionó muy bien para ManyFaces y el Code Check Club fue iniciar un d
 
 Los [Google Docs](https://docs.google.com/) son un lugar ideal para empezar un documento de lluvia de ideas. Sólo tienes que crear un documento y asegurarte de actualizar la configuración de Compartir para que cualquier persona pueda editar (o al menos comentar). 
 
-![](images/google-doc-sharing.png){fig-alt="La interfaz de compartir de Google Docs muestra las opciones para Cualquiera con un enlace: Espectador, Comentarista, Editor (marcado)"}
+![](images/google-doc-sharing-sp.png){fig-alt="La interfaz de compartir de Google Docs muestra las opciones para Cualquiera con un enlace: Espectador, Comentarista, Editor (marcado)"}
 
 ### Estructura
 

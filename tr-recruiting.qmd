@@ -57,7 +57,7 @@ ManyFaces ve Code Check Club için gerçekten işe yarayan şeylerden biri beyin
 
 [Google Dokümanlar](https://docs.google.com/) bir beyin fırtınası belgesi oluşturmak için ideal bir araçtır. Sadece bir belge oluşturun ve belgenin bağlantısına sahip olan herkesin düzenleme yapabileceği (ya da en azından yorum yapabileceği) şekilde paylaşım ayarlarını güncelleyin. 
 
-![](images/google-doc-sharing.png){fig-alt="Google Docs sharing interface showing the options for Anyone with a link: viewer, Commenter, Editor (checked)"}
+![](images/google-doc-sharing-tr.png){fig-alt="Google Docs sharing interface showing the options for Anyone with a link: viewer, Commenter, Editor (checked)"}
 
 ### Yapı
 
