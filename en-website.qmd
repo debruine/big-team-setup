@@ -49,7 +49,7 @@ There are many, many ways to create a website, but I'll assume if you're looking
 Hugo has a lot of [themes](https://themes.gohugo.io/) for websites. [Academic](https://themes.gohugo.io/themes/starter-hugo-academic/) is a popular theme with multilingual support. Hugo sites are good if you want to host a blog and take advantage of features that track post topics and engagement.
 
 
-### WordPress {#sec-en-wordpress-en}
+### WordPress {#sec-en-wordpress}
 
 The [PSA](https://psysciacc.org/)'s website is made with [WordPress](https://wordpress.com/). This option requires no coding experience and is easier for multiple people to manage. There are many [themes](https://en-gb.wordpress.org/themes/) for customising your site.
 

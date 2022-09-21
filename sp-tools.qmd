@@ -1,26 +1,26 @@
-# Herramientas para la ColaboraciÛn {#sec-en-tools}
+# Herramientas para la Colaboraci√≥n {#sec-sp-tools}
 
-La ciencia inclusiva de equipos colaborativos generalmente produce productos cientÌficos como planes de registro, conjuntos de datos, cÛdigos de an·lisis y manuscritos. Necesitar·s una forma para dar seguimiento y organizar todo esto. AquÌ est·n algunas de mis herramientas favoritas con las que puedes configurar cuentas para tus equipos. 
+La ciencia inclusiva de equipos colaborativos generalmente produce productos cient√≠ficos como planes de registro, conjuntos de datos, c√≥digos de an√°lisis y manuscritos. Necesitar√°s una forma para dar seguimiento y organizar todo esto. Aqu√≠ est√°n algunas de mis herramientas favoritas con las que puedes configurar cuentas para tus equipos. 
 
-Probablemente sea una buena idea configurar una direcciÛn de correo electrÛnico para el grupo, de modo se pueda utilizar como correo electrÛnico de inicio de sesiÛn para el resto de sus cuentas y pueda transferirse f·cilmente cuando el liderazgo del equipo cambie. 
+Probablemente sea una buena idea configurar una direcci√≥n de correo electr√≥nico para el grupo, de modo se pueda utilizar como correo electr√≥nico de inicio de sesi√≥n para el resto de sus cuentas y pueda transferirse f√°cilmente cuando el liderazgo del equipo cambie. 
 
 ## Google
 
-Documentos, hojas de c·lculo y formularios en Google son formas ˙tiles de colaborar en documentos con grandes grupos. La mayorÌa de las personas no tendr·n problemas con el acceso. 
+Documentos, hojas de c√°lculo y formularios en Google son formas √∫tiles de colaborar en documentos con grandes grupos. La mayor√≠a de las personas no tendr√°n problemas con el acceso. 
 
 Si alguien de tu grupo principal trabaja en una universidad donde puedan crear un Google [Drive Compartido] (https://support.google.com/a/users/answer/9310249), puede ser una buena forma de organizar tus documentos. Los/as miembros pueden ser agregados/as a la unidad compartida, y pueden crear documentos donde todas las personas tengan permiso predeterminado para editar.
 
-Si no puedes crear una unidad compartida, puedes configurar una nueva cuenta de Google para tu equipo y guardar todos los documentos en una carpeta en esa cuenta [Google Drive](https://drive.google.com/drive/). Los documentos realizados por los/as miembros del equipo deber·n dar permiso de editor/a a la cuenta del grupo. Puedes hacer documentos abiertos para que cualquier persona pueda editar, comentar o ver, o restringir el acceso solo a personas especÌficas. 
+Si no puedes crear una unidad compartida, puedes configurar una nueva cuenta de Google para tu equipo y guardar todos los documentos en una carpeta en esa cuenta [Google Drive](https://drive.google.com/drive/). Los documentos realizados por los/as miembros del equipo deber√°n dar permiso de editor/a a la cuenta del grupo. Puedes hacer documentos abiertos para que cualquier persona pueda editar, comentar o ver, o restringir el acceso solo a personas espec√≠ficas. 
 
 ![](images/google-doc-sharing.png){fig-alt="GInterfaz para compartir de Google Docs que muestra las opciones para Cualquiera con un enlace: Observador/a, Comentarista, Editor/a (checked)"}
 
 
 ## Calendario
-A medida que tu grupo crezca, necesitar·s mantener un seguimiento de las reuniones y fechas de vencimiento. Un calendario de grupo puede ayudar con esto. [Google Calendar](https://calendar.google.com/) es probablemente el m·s f·cil de configurar, especialmente si ya has creado una cuenta de Google para el equipo.
+A medida que tu grupo crezca, necesitar√°s mantener un seguimiento de las reuniones y fechas de vencimiento. Un calendario de grupo puede ayudar con esto. [Google Calendar](https://calendar.google.com/) es probablemente el m√°s f√°cil de configurar, especialmente si ya has creado una cuenta de Google para el equipo.
 
-Es probable que necesites organizar horas de reuniÛn en diferentes zonas horarias. Elige un servicio como [When2Meet](https://www.when2meet.com/) que tiene buen soporte para las m˙ltiples zonas horarias. Agregar reuniones a un calendario compartido ayuda a prevenir confusiones sobre en que zona horaria ser· esa reuniÛn de las 3 pm.
+Es probable que necesites organizar horas de reuni√≥n en diferentes zonas horarias. Elige un servicio como [When2Meet](https://www.when2meet.com/) que tiene buen soporte para las m√∫ltiples zonas horarias. Agregar reuniones a un calendario compartido ayuda a prevenir confusiones sobre en que zona horaria ser√° esa reuni√≥n de las 3 pm.
 
-Considera la posibilidad de vincular a [Event Time Announcer](https://www.timeanddate.com/worldclock/fixedform.html) cuando se anuncian eventos con una hora especÌfica. Puedes rellenar un formulario que te proporcione un URL para vincular la hora de tu evento en un formato como el siguiente:
+Considera la posibilidad de vincular a [Event Time Announcer](https://www.timeanddate.com/worldclock/fixedform.html) cuando se anuncian eventos con una hora espec√≠fica. Puedes rellenar un formulario que te proporcione un URL para vincular la hora de tu evento en un formato como el siguiente:
 
 <https://www.timeanddate.com/worldclock/fixedtime.html?msg=ABRIR+Hackathons&iso=20220924T11&p1=43&ah=7>
 
@@ -29,22 +29,22 @@ Considera la posibilidad de vincular a [Event Time Announcer](https://www.timean
 
 ## OSF
 
-El [Open Science Framework](https://osf.io) es un gran lugar para archivar tus documentos y otros materiales una vez que se terminÛ de colaborar en estos. Los proyectos tienen una estructura modular para que puedas dar derechos para editar a diferentes miembros del equipo en proyectos especÌficos o aspectos del proyecto.
+El [Open Science Framework](https://osf.io) es un gran lugar para archivar tus documentos y otros materiales una vez que se termin√≥ de colaborar en estos. Los proyectos tienen una estructura modular para que puedas dar derechos para editar a diferentes miembros del equipo en proyectos espec√≠ficos o aspectos del proyecto.
 
-Haz un proyecto para tu equipo. (Establece la ubicaciÛn de almacenamiento en Alemania si tu equipo tiene miembros europeos para que puedan guardar datos de invetsigaciÛn sin [GDPR](https://gdpr.eu/what-is-gdpr/) problems.) Crea un nuevo componente para cada proyecto y agrega a las personas que colaborar·n adecuadas. 
+Haz un proyecto para tu equipo. (Establece la ubicaci√≥n de almacenamiento en Alemania si tu equipo tiene miembros europeos para que puedan guardar datos de invetsigaci√≥n sin [GDPR](https://gdpr.eu/what-is-gdpr/) problems.) Crea un nuevo componente para cada proyecto y agrega a las personas que colaborar√°n adecuadas. 
 
 * [PSA OSF pages](https://osf.io/93qpg/)
 
 ## Zotero
 
-[Zotero](https://www.zotero.org/) es probablemente el mejor y gestor de referencias m·s abierto que existe. Puedes configurar una [biblioteca compartida para tu grupo](https://www.zotero.org/groups/) para que los/as miembros se puedan unir. Puedes utilizar esto como una forma de realizar seguimiento de los resultados del grupo o como gestor de referencias compartido para proyectos. Puedes configurar que la biblioteca sea totalmente privada o visible p˙blicamente. 
+[Zotero](https://www.zotero.org/) es probablemente el mejor y gestor de referencias m√°s abierto que existe. Puedes configurar una [biblioteca compartida para tu grupo](https://www.zotero.org/groups/) para que los/as miembros se puedan unir. Puedes utilizar esto como una forma de realizar seguimiento de los resultados del grupo o como gestor de referencias compartido para proyectos. Puedes configurar que la biblioteca sea totalmente privada o visible p√∫blicamente. 
 
-## Github {#sec-en-github}
+## Github {#sec-sp-github}
 
-Si tu grupo tendr· alg˙n cÛdigo abierto, incluyendo los scripts de an·lisis, deber·s pensar en configurar una [organizaciÛn de GitHub] gratuita (https://github.com/organizations/plan). [Code Check Club](https://github.com/code-check-club) es un buen ejemplo de una p·gina de GitHub grupal.
+Si tu grupo tendr√° alg√∫n c√≥digo abierto, incluyendo los scripts de an√°lisis, deber√°s pensar en configurar una [organizaci√≥n de GitHub] gratuita (https://github.com/organizations/plan). [Code Check Club](https://github.com/code-check-club) es un buen ejemplo de una p√°gina de GitHub grupal.
 
-GitHub tambiÈn es un excelente lugar para alojar sitios web para su organizaciÛn y cada proyecto que puedan tener (vea @sec-en-github-pages).
+GitHub tambi√©n es un excelente lugar para alojar sitios web para su organizaci√≥n y cada proyecto que puedan tener (vea @sec-sp-github-pages).
 
 ## Zenodo
 
-[Zenodo](https://zenodo.org/) es un repositorio de investigaciÛn que es ideal para dar DOIs a proyectos de codificaciÛn (tiene integraciÛn con GitHub). Nosotros usamos Zenodo para la serie de libros [PsyTeachR](https://psyteachr.github.io). Puedes hacer una [Comunidad](https://zenodo.org/communities/) en Zenodo para seleccionar los resultados de su organizaciÛn. 
+[Zenodo](https://zenodo.org/) es un repositorio de investigaci√≥n que es ideal para dar DOIs a proyectos de codificaci√≥n (tiene integraci√≥n con GitHub). Nosotros usamos Zenodo para la serie de libros [PsyTeachR](https://psyteachr.github.io). Puedes hacer una [Comunidad](https://zenodo.org/communities/) en Zenodo para seleccionar los resultados de su organizaci√≥n. 

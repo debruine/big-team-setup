@@ -2,36 +2,36 @@
 
 ## Consejo Administrativo Provisional
 
-Lo primero que necesita una organizaciÛn es una junta directiva provisional que asuma el trabajo descrito en el resto de este manual. Habr· muchas decisiones que tomar al principio y ser· m·s f·cil hacerlo con un equipo m·s pequeÒo de 5 a 10 personas dedicadas. Por muy democr·tica que quieras que sea una organizaciÛn, la mayorÌa de los miembros no tendr·n la capacidad de opinar sobre cada decisiÛn. 
+Lo primero que necesita una organizaci√≥n es una junta directiva provisional que asuma el trabajo descrito en el resto de este manual. Habr√° muchas decisiones que tomar al principio y ser√° m√°s f√°cil hacerlo con un equipo m√°s peque√±o de 5 a 10 personas dedicadas. Por muy democr√°tica que quieras que sea una organizaci√≥n, la mayor√≠a de los miembros no tendr√°n la capacidad de opinar sobre cada decisi√≥n. 
 
-Establece una lista especÌfica de tareas que la junta interina debe realizar durante un periodo de tiempo concreto, que finalizar· con la elecciÛn de sus sustitutos. He aquÌ algunas ideas:
+Establece una lista espec√≠fica de tareas que la junta interina debe realizar durante un periodo de tiempo concreto, que finalizar√° con la elecci√≥n de sus sustitutos. He aqu√≠ algunas ideas:
 
-* Nombre oficial y logotipo @sec-en-name
-* Seguimiento de los y las integrantes @sec-en-membership
-* Pr·cticas de trabajo @sec-en-practices
-* PolÌtica de autorÌa @sec-en-authorship
-* CÛdigo de conducta @sec-en-coc
-* Establecer canales de comunicaciÛn @sec-en-communication
-* Configurar las redes sociales @sec-en-socialmedia
-* Configurar herramientas de colaboraciÛn @sec-en-tools
-* Crear un sitio web @sec-en-website
+* Nombre oficial y logotipo @sec-sp-name
+* Seguimiento de los y las integrantes @sec-sp-membership
+* Pr√°cticas de trabajo @sec-sp-practices
+* Pol√≠tica de autor√≠a @sec-sp-authorship
+* C√≥digo de conducta @sec-sp-coc
+* Establecer canales de comunicaci√≥n @sec-sp-communication
+* Configurar las redes sociales @sec-sp-socialmedia
+* Configurar herramientas de colaboraci√≥n @sec-sp-tools
+* Crear un sitio web @sec-sp-website
 
 
-## Nombre y Logo {#sec-en-name}
+## Nombre y Logo {#sec-sp-name}
 
-Reflexiona sobre el nombre oficial. Aseg˙rate de que es ˙nico, tiene un buen acrÛnimo o abreviatura y no tiene connotaciones negativas en otros idiomas. ManyXXXX es un estilo de nombre popular que indica que tu grupo tiene un propÛsito, valores y estructura similares a los de grupos como ManyBabies, ManyFaces, EEGManyLabs, ManyAnalysts, ManyPrimates, ManyDogs, ManyBirds, ManyGoats, ManyFishes, etc. TambiÈn querr·s que este nombre estÈ disponible en todos los servicios de redes sociales (@sec-en-socialmedia) y herramientas (@sec-en-tools) en los que te inscribas, y que dispongas de un nombre de dominio para un sitio web (@sec-en-domain).
+Reflexiona sobre el nombre oficial. Aseg√∫rate de que es √∫nico, tiene un buen acr√≥nimo o abreviatura y no tiene connotaciones negativas en otros idiomas. ManyXXXX es un estilo de nombre popular que indica que tu grupo tiene un prop√≥sito, valores y estructura similares a los de grupos como ManyBabies, ManyFaces, EEGManyLabs, ManyAnalysts, ManyPrimates, ManyDogs, ManyBirds, ManyGoats, ManyFishes, etc. Tambi√©n querr√°s que este nombre est√© disponible en todos los servicios de redes sociales (@sec-sp-socialmedia) y herramientas (@sec-sp-tools) en los que te inscribas, y que dispongas de un nombre de dominio para un sitio web (@sec-sp-domain).
 
-Aseg˙rate tambiÈn de tener un buen logotipo. Necesitar·s un logotipo cuadrado/circular para tu avatar en la mayorÌa de las redes sociales, y tambiÈn una imagen tipo banner para algunas. Un buen logotipo es distintivo, claro en tamaÒos pequeÒos y no tiene demasiado texto. Varias siluetas de lo que est·s estudiando parece ser una opciÛn popular.
+Aseg√∫rate tambi√©n de tener un buen logotipo. Necesitar√°s un logotipo cuadrado/circular para tu avatar en la mayor√≠a de las redes sociales, y tambi√©n una imagen tipo banner para algunas. Un buen logotipo es distintivo, claro en tama√±os peque√±os y no tiene demasiado texto. Varias siluetas de lo que est√°s estudiando parece ser una opci√≥n popular.
 
-Haz el logo en un formato que no tenga pÈrdida, como PNG, y utiliza un fondo transparente (a menos que tu logo sea realmente cuadrado). Comprueba tambiÈn cÛmo se ve tu logo en fondos oscuros y claros ( ve   la parte superior izquierda de p·gina para ver los logos de abajo en fondos claros y oscuros). 
+Haz el logo en un formato que no tenga p√©rdida, como PNG, y utiliza un fondo transparente (a menos que tu logo sea realmente cuadrado). Comprueba tambi√©n c√≥mo se ve tu logo en fondos oscuros y claros ( ve   la parte superior izquierda de p√°gina para ver los logos de abajo en fondos claros y oscuros). 
 
 ::: {#fig-logos layout="[[1,1,1,1],[1,1,1,1]]"}
 
-![Psychological Science Accelerator](images/psa-logo.png){fig-alt="Un cÌrculo verde con tres flechas blancas apuntando a la derecha, como un sÌmbolo de avance r·pido"}
+![Psychological Science Accelerator](images/psa-logo.png){fig-alt="Un c√≠rculo verde con tres flechas blancas apuntando a la derecha, como un s√≠mbolo de avance r√°pido"}
 
-![ManyBabies](images/manybabies-logo.png){fig-alt="Las letras MB rodeadas de bebÈs estilizados cogidos de la mano con paÒales de distintos colores"}
+![ManyBabies](images/manybabies-logo.png){fig-alt="Las letras MB rodeadas de beb√©s estilizados cogidos de la mano con pa√±ales de distintos colores"}
 
-![ManyFaces](images/manyfaces-logo.png){fig-alt="Hex·gono con lados de arco iris y tres rostros humanos en 3D en el centro; los rostros son de diferentes gÈneros y etnias, pero representados como m·rmol"}
+![ManyFaces](images/manyfaces-logo.png){fig-alt="Hex√°gono con lados de arco iris y tres rostros humanos en 3D en el centro; los rostros son de diferentes g√©neros y etnias, pero representados como m√°rmol"}
 
 ![ManyClasses](images/manyclasses-logo.png){fig-alt="Imagen abstracta naranja y azul que parece un libro abierto haciendo una vaga letra m"}
 
@@ -41,70 +41,70 @@ Haz el logo en un formato que no tenga pÈrdida, como PNG, y utiliza un fondo tra
 
 ![ManyPrimates](images/manyprimates-logo.png){fig-alt="Cuatro siluetas de caras de primates superpuestas en distintos tonos de verde"}
 
-![ManyBirds](images/manybirds-logo.jpg){fig-alt="Una forma de huevo con siluetas de p·jaros en su interior"}
+![ManyBirds](images/manybirds-logo.jpg){fig-alt="Una forma de huevo con siluetas de p√°jaros en su interior"}
 
-![ManyGoats](images/manygoats-logo.jpg){fig-alt="Un dibujo lineal de un cÌrculo con siluetas de cabras"}
+![ManyGoats](images/manygoats-logo.jpg){fig-alt="Un dibujo lineal de un c√≠rculo con siluetas de cabras"}
 
 
-Logotipos de equipos cientÌficos colaborativos
+Logotipos de equipos cient√≠ficos colaborativos
 :::
 
 
 ::: {#fig-logos layout="[[1], [1], [1]]"}
 
-![](images/psa-banner.jpg){fig-alt="Un globo aplanado con mares grises y masas de tierra blancas. Los puntos verdes representan la ubicaciÛn de los y las integrantes, que est·n por todo el mundo, pero concentrados en AmÈrica del Norte y Europa."}
+![](images/psa-banner.jpg){fig-alt="Un globo aplanado con mares grises y masas de tierra blancas. Los puntos verdes representan la ubicaci√≥n de los y las integrantes, que est√°n por todo el mundo, pero concentrados en Am√©rica del Norte y Europa."}
 
 ![](images/manyfaces-banner.jpg){fig-alt="Seis caras en 3D que miran de izquierda a derecha en los colores del arco iris"}
 
-![](images/manydogs-banner.png){fig-alt="Tres siluetas de perros de diferentes tamaÒos saltando en medio de las palabras MANY y DOGS"}
+![](images/manydogs-banner.png){fig-alt="Tres siluetas de perros de diferentes tama√±os saltando en medio de las palabras MANY y DOGS"}
 
-Banners de equipos cientÌficos colaborativos
+Banners de equipos cient√≠ficos colaborativos
 
 :::
 
-## Seguimiento de la membresÌa {#sec-en-membership}
+## Seguimiento de la membres√≠a {#sec-sp-membership}
 
-øCÛmo va a mantener un registro de las personas afiliadas? Una organizaciÛn nueva probablemente no cobrar· cuotas, pero querr· saber de alg˙n modo quiÈnes son sus integrantes. Inevitablemente, llegar· el momento donde podr·s escribir algo como "Tenemos 1,350 personas afiliadas de 82 paÌses de todo el mundo" o hacer un mapa de las personas afiliadas, por lo que necesitar·n una forma de llevar un registro. 
+¬øC√≥mo va a mantener un registro de las personas afiliadas? Una organizaci√≥n nueva probablemente no cobrar√° cuotas, pero querr√° saber de alg√∫n modo qui√©nes son sus integrantes. Inevitablemente, llegar√° el momento donde podr√°s escribir algo como "Tenemos 1,350 personas afiliadas de 82 pa√≠ses de todo el mundo" o hacer un mapa de las personas afiliadas, por lo que necesitar√°n una forma de llevar un registro. 
 
-El formulario de registro de intereses (@sec-en-reg-interest) puede servir como lista inicial de los y las miembros, pero probablemente quieras m·s informaciÛn, como sus ·reas de experiencia, los recursos que pueden aportar y las tareas que est·n dispuestos a asumir. ManyBabies tiene una brillante aplicaciÛn [membership tracker](https://manybabies.shinyapps.io/shiny_mb_map/) que muestra sus miembros en todo el mundo.
+El formulario de registro de intereses (@sec-sp-reg-interest) puede servir como lista inicial de los y las miembros, pero probablemente quieras m√°s informaci√≥n, como sus √°reas de experiencia, los recursos que pueden aportar y las tareas que est√°n dispuestos a asumir. ManyBabies tiene una brillante aplicaci√≥n [membership tracker](https://manybabies.shinyapps.io/shiny_mb_map/) que muestra sus miembros en todo el mundo.
 
-Piensa en cÛmo llevar·s la cuenta de los/as afiliados/as activos/as e inactivos/as. Puedes hacer que la afiliaciÛn dure para siempre (al menos hasta que se solicite la cancelaciÛn). La principal ventaja de esta estrategia es que el n˙mero de afiliados/as solo aumentar·. Sin embargo, tendr·s que lidiar con m·s correos electrÛnicos rebotados cada aÒo y es difÌcil saber quiÈn est· siendo activo/a para efectos de planificaciÛn y capacidad. Como alternativa, se puede hacer que la afiliaciÛn sea por un periodo de tiempo determinado, como un aÒo, y exigir que haya reincorporaciÛn cada aÒo. Esto puede dar una visiÛn m·s precisa de su afiliaciÛn, pero se corre el riesgo de perder a personas que simplemente se olvidaron de volver a afiliarse y es una molestia anual adicional para todas las personas.
+Piensa en c√≥mo llevar√°s la cuenta de los/as afiliados/as activos/as e inactivos/as. Puedes hacer que la afiliaci√≥n dure para siempre (al menos hasta que se solicite la cancelaci√≥n). La principal ventaja de esta estrategia es que el n√∫mero de afiliados/as solo aumentar√°. Sin embargo, tendr√°s que lidiar con m√°s correos electr√≥nicos rebotados cada a√±o y es dif√≠cil saber qui√©n est√° siendo activo/a para efectos de planificaci√≥n y capacidad. Como alternativa, se puede hacer que la afiliaci√≥n sea por un periodo de tiempo determinado, como un a√±o, y exigir que haya reincorporaci√≥n cada a√±o. Esto puede dar una visi√≥n m√°s precisa de su afiliaci√≥n, pero se corre el riesgo de perder a personas que simplemente se olvidaron de volver a afiliarse y es una molestia anual adicional para todas las personas.
 
-## Pr·cticas de trabajo {#sec-en-practices}
+## Pr√°cticas de trabajo {#sec-sp-practices}
 
-Consulta otras organizaciones cientÌficas colaborativas y determina el modelo que quieres utilizar para decidir quÈ proyectos llevar a cabo. Si tu grupo est· formado en torno a un proyecto ya bien articulado, puedes saltarte este paso. 
+Consulta otras organizaciones cient√≠ficas colaborativas y determina el modelo que quieres utilizar para decidir qu√© proyectos llevar a cabo. Si tu grupo est√° formado en torno a un proyecto ya bien articulado, puedes saltarte este paso. 
 
-Por ejemplo, el [Psychological Science Accelerator](https://psysciacc.org/how-we-work/) tiene convocatorias formales de selecciÛn de estudios en las que las solicitudes de proyectos se presentan y luego son evaluadas por los revisores/as y por todos/as los/as miembros antes de que un comitÈ de selecciÛn de estudios elija los proyectos que pueden llevarse a cabo, dada la capacidad actual de la red.
+Por ejemplo, el [Psychological Science Accelerator](https://psysciacc.org/how-we-work/) tiene convocatorias formales de selecci√≥n de estudios en las que las solicitudes de proyectos se presentan y luego son evaluadas por los revisores/as y por todos/as los/as miembros antes de que un comit√© de selecci√≥n de estudios elija los proyectos que pueden llevarse a cabo, dada la capacidad actual de la red.
 
-ManyBabies utiliza un [formulario de propuesta de proyecto] formal (https://docs.google.com/document/d/1kbnK2us2Svfcf7X4TAI5YUw3_duUNAQoYINTuuWr1Jw/edit), pero no tiene convocatorias especÌficas con fechas lÌmite. Actualmente, ManyFaces tiene un proceso mucho menos formal en el que los proyectos de trabajo se proponen en un canal de discusiÛn y, una vez que el proponente considera que hay suficiente interÈs, se forma un grupo de trabajo. 
+ManyBabies utiliza un [formulario de propuesta de proyecto](https://docs.google.com/document/d/1kbnK2us2Svfcf7X4TAI5YUw3_duUNAQoYINTuuWr1Jw/edit) formal, pero no tiene convocatorias espec√≠ficas con fechas l√≠mite. Actualmente, ManyFaces tiene un proceso mucho menos formal en el que los proyectos de trabajo se proponen en un canal de discusi√≥n y, una vez que el proponente considera que hay suficiente inter√©s, se forma un grupo de trabajo. 
 
-## PolÌtica de autorÌa {#sec-en-authorship}
+## Pol√≠tica de autor√≠a {#sec-sp-authorship}
 
-TambiÈn es importante acordar la forma de abordar la autorÌa. H·galo **antes** de que surjan problemas. ManyBabies tiene una excelente [polÌtica de autorÌa](https://manybabies.github.io/authorship/).
+Tambi√©n es importante acordar la forma de abordar la autor√≠a. H√°galo **antes** de que surjan problemas. ManyBabies tiene una excelente [pol√≠tica de autor√≠a](https://manybabies.github.io/authorship/).
 
-Considere la [taxonomÌa de funciones de los/as colaboradores/as de CRediT](https://www.niso.org/publications/z39104-2022-credit) y la [aplicaciÛn tenzing](https://rollercoaster.shinyapps.io/tenzing/) para documentar las funciones de los colaboradores.
+Considere la [taxonom√≠a de funciones de los/as colaboradores/as de CRediT](https://www.niso.org/publications/z39104-2022-credit) y la [aplicaci√≥n tenzing](https://rollercoaster.shinyapps.io/tenzing/) para documentar las funciones de los colaboradores.
 
-## CÛdigo de conducta {#sec-en-coc}
+## C√≥digo de conducta {#sec-sp-coc}
 
-Un cÛdigo de conducta establece los valores, las normas y las responsabilidades de los y las miembros de forma clara. Aunque un cÛdigo de conducta en sÌ mismo no evita malos comportamientos, es el primer paso para seÒalar los valores de la organizaciÛn.
+Un c√≥digo de conducta establece los valores, las normas y las responsabilidades de los y las miembros de forma clara. Aunque un c√≥digo de conducta en s√≠ mismo no evita malos comportamientos, es el primer paso para se√±alar los valores de la organizaci√≥n.
 
-Un cÛdigo de conducta debe incluir (adaptado de [How to Respond to Code of Conduct Reports](https://files.frameshiftconsulting.com/books/cocguide.pdf))
+Un c√≥digo de conducta debe incluir (adaptado de [How to Respond to Code of Conduct Reports](https://files.frameshiftconsulting.com/books/cocguide.pdf))
 
-* Una breve declaraciÛn que describa el objetivo del cÛdigo de conducta
+* Una breve declaraci√≥n que describa el objetivo del c√≥digo de conducta
 * Una lista de comportamientos inaceptables
-* Una descripciÛn de dÛnde se aplica el cÛdigo de conducta
-* Una lista de las posibles consecuencias de la violaciÛn del cÛdigo de conducta
-* Instrucciones detalladas, especÌficas y sencillas para denunciar una infracciÛn del cÛdigo de conducta
-* Una lista de las personas que se encargar·n de la denuncia del cÛdigo de conducta
-* Una promesa de que cualquier persona directamente involucrada en una queja se recusar·
+* Una descripci√≥n de d√≥nde se aplica el c√≥digo de conducta
+* Una lista de las posibles consecuencias de la violaci√≥n del c√≥digo de conducta
+* Instrucciones detalladas, espec√≠ficas y sencillas para denunciar una infracci√≥n del c√≥digo de conducta
+* Una lista de las personas que se encargar√°n de la denuncia del c√≥digo de conducta
+* Una promesa de que cualquier persona directamente involucrada en una queja se recusar√°
 
-Existen varios recursos ˙tiles para elaborar un cÛdigo de conducta:
+Existen varios recursos √∫tiles para elaborar un c√≥digo de conducta:
 
-* [Contributor Covenant](https://www.contributor-covenant.org/): especializado en proyectos de software de cÛdigo abierto
-* [CÛmo responder a las quejas del cÛdigo de conducta](https://files.frameshiftconsulting.com/books/cocguide.pdf): Consejos con mas detallados
-* [PolÌtica antiacoso de la comunidad del feminismo geek](https://geekfeminism.fandom.com/wiki/Community_anti-harassment)
+* [Contributor Covenant](https://www.contributor-covenant.org/): especializado en proyectos de software de c√≥digo abierto
+* [C√≥mo responder a las quejas del c√≥digo de conducta](https://files.frameshiftconsulting.com/books/cocguide.pdf): Consejos con mas detallados
+* [Pol√≠tica antiacoso de la comunidad del feminismo geek](https://geekfeminism.fandom.com/wiki/Community_anti-harassment)
 
-Y aquÌ hay algunos modelos ˙tiles para un cÛdigo de conducta:
+Y aqu√≠ hay algunos modelos √∫tiles para un c√≥digo de conducta:
 
 * [Psychological Science Accelerator](https://psysciacc.org/code-of-conduct/)
 * [ManyBabies](https://manybabies.github.io/code_conduct/)

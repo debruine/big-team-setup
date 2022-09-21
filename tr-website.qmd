@@ -48,7 +48,7 @@ Bir web sitesi oluşturmanın pek çok yolu vardır, ancak bu kılavuza bakıyor
 
 Hugo'nun web siteleri için birçok [teması](https://themes.gohugo.io/) bulunmaktadır. [Akademik](https://themes.gohugo.io/themes/starter-hugo-academic/) teması çok dilli desteği olan popüler bir temadır. Bir blog açmak ve gönderi konularını ve etkileşimi izleyen özelliklerden yararlanmak istiyorsanız Hugo siteleri iyidir.
 
-### WordPress {#sec-tr-wordpress-en}
+### WordPress {#sec-tr-wordpress}
 
 [Psychological Science Accelerator'ın](https://psysciacc.org/) web sitesi [WordPress](https://wordpress.com/) kullanılarak yapılmıştır. Bu seçenek kodlama deneyimi gerektirmez ve birden fazla kişinin yönetmesi daha kolaydır. Sitenizi özelleştirmek için birçok [tema](https://en-gb.wordpress.org/themes/) bulunmaktadır.
 

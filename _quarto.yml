@@ -40,13 +40,13 @@ book:
       - en-communication.qmd
       - en-tools.qmd
       - en-website.qmd
-    # - part: "Español"
-    #   chapters:
-    #   - sp-recruiting.qmd
-    #   - sp-governance.qmd
-    #   - sp-communication.qmd
-    #   - sp-tools.qmd
-    #   - sp-website.qmd
+    - part: "Español"
+      chapters:
+      - sp-recruiting.qmd
+      - sp-governance.qmd
+      - sp-communication.qmd
+      - sp-tools.qmd
+      - sp-website.qmd
     - part: "Türk"
       chapters:
       - tr-recruiting.qmd

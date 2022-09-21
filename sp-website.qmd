@@ -1,6 +1,6 @@
-# P?gina web {#sec-sp-website}
+# Página web {#sec-sp-website}
 
-En primer lugar, consulta varias p?ginas web de otros equipos colaborativos que ya exist?an y determina el tipo de informaci?n que quieres incluir en tu p?gina. Si a?n es una etapa temprana de tu organizaci?n, es posible que no tengas una estructura tan compleja como la de otras organizaciones.
+En primer lugar, consulta varias páginas web de otros equipos colaborativos que ya existían y determina el tipo de información que quieres incluir en tu página. Si aún es una etapa temprana de tu organización, es posible que no tengas una estructura tan compleja como la de otras organizaciones.
 
 * [ManyBabies](https://manybabies.github.io)
 * [ManyPrimates](https://manyprimates.github.io/)
@@ -9,74 +9,74 @@ En primer lugar, consulta varias p?ginas web de otros equipos colaborativos que 
 
 ## Secciones
 
-La mayor?a de las p?ginas web de organizaciones cient?ficas de equipos colaborativos tendr?n como m?nimo las siguientes secciones.
+La mayoría de las páginas web de organizaciones científicas de equipos colaborativos tendrán como mínimo las siguientes secciones.
 
-### Prop?sito/Visi?n
+### Propósito/Visión
 
-Informa a la gente cu?l es el objetivo de tu grupo. ?Qu? problemas o cuestiones espec?ficas estar?n abordando?
+Informa a la gente cuál es el objetivo de tu grupo. ¿Qué problemas o cuestiones específicas estarán abordando?
 
-### C?mo afiliarse
+### Cómo afiliarse
 
-Haz que sea f?cil para la gente pueda averiguar c?mo unirse a tu organizaci?n. 
+Haz que sea fácil para la gente pueda averiguar cómo unirse a tu organización. 
 
 ### Miembros
 
-?Qui?nes son tus miembros? ?Cu?les son sus intereses? ?De d?nde vienen y qu? tipo de experiencia tienen?
+¿Quiénes son tus miembros? ¿Cuáles son sus intereses? ¿De dónde vienen y qué tipo de experiencia tienen?
 
-Algunos formatos de blog como Wordpress o Hugo pueden crear una p?gina de miembros autom?ticamente, siempre que a?adas los datos de cada miembro de una manera espec?fica. Vale la pena pensar en estas p?ginas cuando dise?es tus formularios de afiliaci?n. 
+Algunos formatos de blog como Wordpress o Hugo pueden crear una página de miembros automáticamente, siempre que añadas los datos de cada miembro de una manera específica. Vale la pena pensar en estas páginas cuando diseñes tus formularios de afiliación. 
 
 ### Actividades
 
-?Qu? actividades realiza tu grupo? Al principio, es probable que no tengan m?s que planes, pero piensen en estructurar su p?gina web para que sea f?cil a?adir nuevos proyectos y resultados.
+¿Qué actividades realiza tu grupo? Al principio, es probable que no tengan más que planes, pero piensen en estructurar su página web para que sea fácil añadir nuevos proyectos y resultados.
 
 ## Accesibilidad
 
-La accesibilidad es muy importante para una p?gina web. Aseg?rate de a?adir un texto alternativo descriptivo a cualquier imagen y de utilizar plantillas web que tengan una estructura sem?ntica para personas que leen en pantallas. Las opciones que se describen a continuaci?n son generalmente buenas para la accesibilidad.
+La accesibilidad es muy importante para una página web. Asegúrate de añadir un texto alternativo descriptivo a cualquier imagen y de utilizar plantillas web que tengan una estructura semántica para personas que leen en pantallas. Las opciones que se describen a continuación son generalmente buenas para la accesibilidad.
 
-## Construcci?n
+## Construcción
 
-Hay muchas, muchas maneras de crear una p?gina web, pero asumir? que si est?s mirando esta gu?a, no tienes mucha experiencia. Las opciones que aparecen a continuaci?n son formas bastante sencillas de crear el sitio web para una organizaci?n.
+Hay muchas, muchas maneras de crear una página web, pero asumiré que si estás mirando esta guía, no tienes mucha experiencia. Las opciones que aparecen a continuación son formas bastante sencillas de crear el sitio web para una organización.
 
 
 ### Jeckyll
 
-[ManyBabies](https://manybabies.github.io) tiene una p?gina web impulsada por [BeautifulJeckyll](https://beautifuljekyll.com/) y alojada en [GitHub Pages](https://pages.github.com/). Si tienes una cuenta de github, es muy f?cil configurar la configuraci?n por defecto y empezar a juguetear.
+[ManyBabies](https://manybabies.github.io) tiene una página web impulsada por [BeautifulJeckyll](https://beautifuljekyll.com/) y alojada en [GitHub Pages](https://pages.github.com/). Si tienes una cuenta de github, es muy fácil configurar la configuración por defecto y empezar a juguetear.
 
 ### Hugo
 
-[Hugo](https://gohugo.io/) es un generador de sitios web de c?digo abierto. Si tienes experiencia con R, puedes hacer un sitio web Hugo usando [Quarto](https://quarto.org/docs/reference/formats/markdown/hugo.html) o [Blogdown](https://bookdown.org/yihui/blogdown/).
+[Hugo](https://gohugo.io/) es un generador de sitios web de código abierto. Si tienes experiencia con R, puedes hacer un sitio web Hugo usando [Quarto](https://quarto.org/docs/reference/formats/markdown/hugo.html) o [Blogdown](https://bookdown.org/yihui/blogdown/).
 
-Hugo tiene muchas [tem?ticas](https://themes.gohugo.io/) para p?ginas web. [Academic](https://themes.gohugo.io/themes/starter-hugo-academic/) es una tem?tica popular con soporte multiling?e. Los sitios de Hugo son buenos si quieres alojar un blog y aprovechar las caracter?sticas que rastrean los temas de las publicaciones y participaci?n.
+Hugo tiene muchas [temáticas](https://themes.gohugo.io/) para páginas web. [Academic](https://themes.gohugo.io/themes/starter-hugo-academic/) es una temática popular con soporte multilingüe. Los sitios de Hugo son buenos si quieres alojar un blog y aprovechar las características que rastrean los temas de las publicaciones y participación.
 
 
-### WordPress {#sec-sp-wordpress-en}
+### WordPress {#sec-sp-wordpress}
 
-El sitio web de [PSA](https://psysciacc.org/) est? hecho con [WordPress](https://wordpress.com/). Esta opci?n no requiere experiencia en codificaci?n y es m?s f?cil que varias personas la administren. Hay muchas [tem?tica](https://en-gb.wordpress.org/themes/) para personalizar la p?gina. 
+El sitio web de [PSA](https://psysciacc.org/) está hecho con [WordPress](https://wordpress.com/). Esta opción no requiere experiencia en codificación y es más fácil que varias personas la administren. Hay muchas [temática](https://en-gb.wordpress.org/themes/) para personalizar la página. 
 
-Una de las desventajas es que este tipo de p?ginas web tan din?micas pueden ser m?s complejas de alojar, pero puedes empezar con un alojamiento gratuito en WordPress.com.
+Una de las desventajas es que este tipo de páginas web tan dinámicas pueden ser más complejas de alojar, pero puedes empezar con un alojamiento gratuito en WordPress.com.
 
 ## Alojamiento
 
-Tu p?gina web tiene que estar alojada en alg?n sitio. GitHub Pages y Netlify son dos de las mejores opciones gratuitas. Ambas te permiten utilizar un nombre de dominio personalizado o un nombre de dominio como myteam.github.io o myteam.netlify.com.
+Tu página web tiene que estar alojada en algún sitio. GitHub Pages y Netlify son dos de las mejores opciones gratuitas. Ambas te permiten utilizar un nombre de dominio personalizado o un nombre de dominio como myteam.github.io o myteam.netlify.com.
 
 ### Github Pages {#sec-sp-github-pages}
 
-Es muy sencillo alojar una p?gina web est?tica de forma gratuita utilizando [GitHub Pages](https://pages.github.com/). Necesitas haber configurado una organizaci?n de GitHub como se describe en @sec-sp-github y crear un repositorio llamado `yourorgname.github.io` para los archivos de la p?gina web. 
+Es muy sencillo alojar una página web estática de forma gratuita utilizando [GitHub Pages](https://pages.github.com/). Necesitas haber configurado una organización de GitHub como se describe en @sec-sp-github y crear un repositorio llamado `yourorgname.github.io` para los archivos de la página web. 
 
-Un aspecto positivo de GitHub Pages es que cada proyecto puede tener su propio repositorio y una p?gina web en una subsecci?n de la p?gina web principal. Por ejemplo, PsyTeachR tiene un sitio principal en <https://psyteachr.github.io/>, pero cada libro (por ejemplo, [Applied Data Skills](https://psyteachr.github.io/ads/) o [Statistical Models](https://psyteachr.github.io/stat-models/)) tiene su propio repositorio y su propio equipo de autores/as. 
+Un aspecto positivo de GitHub Pages es que cada proyecto puede tener su propio repositorio y una página web en una subsección de la página web principal. Por ejemplo, PsyTeachR tiene un sitio principal en <https://psyteachr.github.io/>, pero cada libro (por ejemplo, [Applied Data Skills](https://psyteachr.github.io/ads/) o [Statistical Models](https://psyteachr.github.io/stat-models/)) tiene su propio repositorio y su propio equipo de autores/as. 
 
 ::: {.light-mode}
-![La organizaci?n GitHub de PsyTeachR <https://github.com/PsyTeachR>](images/github-org-light.png){fig-alt="Una captura de pantalla de la interfaz de GitHub para la organizaci?n PsyTeachR mostrando el readme, los repositorios anclados y los miembros; v?ase https://github.com/PsyTeachR para el texto completo"}
+![La organización GitHub de PsyTeachR <https://github.com/PsyTeachR>](images/github-org-light.png){fig-alt="Una captura de pantalla de la interfaz de GitHub para la organización PsyTeachR mostrando el readme, los repositorios anclados y los miembros; véase https://github.com/PsyTeachR para el texto completo"}
 :::
 
 ::: {.dark-mode}
-![La organizaci?n GitHub de PsyTeachR <https://github.com/PsyTeachR>](images/github-org-dark.png){fig-alt="Una captura de pantalla de la interfaz de GitHub para la organizaci?n PsyTeachR mostrando el readme, los repositorios anclados y los miembros; ver https://github.com/PsyTeachR para el texto completo"}
+![La organización GitHub de PsyTeachR <https://github.com/PsyTeachR>](images/github-org-dark.png){fig-alt="Una captura de pantalla de la interfaz de GitHub para la organización PsyTeachR mostrando el readme, los repositorios anclados y los miembros; ver https://github.com/PsyTeachR para el texto completo"}
 :::
 
 ### Netlify
 
-[Netlify](https://app.netlify.com/) puede alojar una p?gina web y tambi?n tiene plantillas de arranque r?pido para configurar un sitio web utilizando Hugo u otros tipos de plantillas. 
+[Netlify](https://app.netlify.com/) puede alojar una página web y también tiene plantillas de arranque rápido para configurar un sitio web utilizando Hugo u otros tipos de plantillas. 
 
 ## Nombre de dominio {#sec-sp-domain}
 
-Es una buena idea registrar un nombre de dominio para tu grupo, pero no te dejes enga?ar comprando un nombre caro  .com. Ve a [Google Domains](https://domains.google/) (o a tu registrador de dominios favorito) y escribe el nombre que vas a utilizar para las redes sociales. Te mostrar?n todas las terminaciones de dominio disponibles para ese nombre y sus precios. El dominio .info suele costar unos 10 euros al a?o, pero hay cientos de opciones (.tires es extra?amente caro).
+Es una buena idea registrar un nombre de dominio para tu grupo, pero no te dejes engañar comprando un nombre caro  .com. Ve a [Google Domains](https://domains.google/) (o a tu registrador de dominios favorito) y escribe el nombre que vas a utilizar para las redes sociales. Te mostrarán todas las terminaciones de dominio disponibles para ese nombre y sus precios. El dominio .info suele costar unos 10 euros al año, pero hay cientos de opciones (.tires es extrañamente caro).

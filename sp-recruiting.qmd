@@ -1,86 +1,95 @@
 # Reclutamiento de miembros
 
-Mi participaciÛn en el Acelerador de la Ciencia PsicolÛgica (Psychological Science Accelerator) comenzÛ en 2017 con un [tuit de Chris Chartier](https://twitter.com/CRChartier/status/901500936727781376). Y 5 aÒos despuÈs, ManyFaces comenzÛ con [otro](https://twitter.com/LisaDeBruine/status/1486807497608466435).
+Mi participaci√≥n en el Acelerador de la Ciencia Psicol√≥gica (Psychological Science Accelerator) comenz√≥ en 2017 con un [tuit de Chris Chartier](https://twitter.com/CRChartier/status/901500936727781376). Y 5 a√±os despu√©s, ManyFaces comenz√≥ con [otro](https://twitter.com/LisaDeBruine/status/1486807497608466435).
 
-::: {#fig-tweets. light-mode layout-ncol=2}
+::: {#fig-tweets .light-mode layout-ncol=2}
 
-![](images/psa-tweet-light.png){fig-alt="Tweet de Chris Chartier: Es hora de empezar a construir un CERN para la ciencia psicolÛgica" style="border:2px solid #009A2A;"}
+![](images/psa-tweet-light.png){fig-alt="Tweet de Chris Chartier: Es hora de empezar a construir un CERN para la ciencia psicol√≥gica" style="border:2px solid #009A2A;"}
 
-![](images/manyfaces-tweet-light.png){fig-alt="Tweet de Lisa DeBruine: Big Team Science est· creciendo. Me ha encantado mi participaciÛn en @PsySciAcc y creo que equipos como este y @Many_Babies, @BrRepInitiative, @ManyPrimates etc. son el futuro de la ciencia. AsÌ que me he estado preguntando si es el momento de iniciar ManyFaces" style="border:2px solid purple;"}
+![](images/manyfaces-tweet-light.png){fig-alt="Tweet de Lisa DeBruine: Big Team Science est√° creciendo. Me ha encantado mi participaci√≥n en @PsySciAcc y creo que equipos como este y @Many_Babies, @BrRepInitiative, @ManyPrimates etc. son el futuro de la ciencia. As√≠ que me he estado preguntando si es el momento de iniciar ManyFaces" style="border:2px solid purple;"}
 
 Tweets que iniciaron equipos de ciencia colaborativa (Big-Team).
 :::
 
-Twitter u otros medios sociales son una gran manera de medir el interÈs en iniciar un equipos de ciencia colaborativa. Si obtienes mucho interÈs, tienes que estar preparado/a para empezar a organizarte r·pidamente para mantener ese impulso.
+::: {#fig-tweets .dark-mode layout-ncol=2}
 
-## Registrar el interÈs {#sec-en-reg-interest}
+![](images/psa-tweet-dark.png){fig-alt="Tweet de Chris Chartier: Es hora de empezar a construir un CERN para la ciencia psicol√≥gica" style="border:2px solid #009A2A;"}
 
-Puedes crear un r·pido [formulario de Google](https://docs.google.com/forms/) para registrar el interÈs en el grupo. De este modo, puedes hacer una lista de todas las personas interesadas para poder contactarlas m·s adelante si no tienes tiempo de empezar de inmediato. TambiÈn es una forma de centralizar el reclutamiento para que no tengas que estar pendiente de quiÈn est· interesado/as en los hilos de Twitter y los correos electrÛnicos y las publicaciones de Facebook...
+![](images/manyfaces-tweet-dark.png){fig-alt="Tweet de Lisa DeBruine: Big Team Science est√° creciendo. Me ha encantado mi participaci√≥n en @PsySciAcc y creo que equipos como este y @Many_Babies, @BrRepInitiative, @ManyPrimates etc. son el futuro de la ciencia. As√≠ que me he estado preguntando si es el momento de iniciar ManyFaces" style="border:2px solid purple;"}
 
-Haz que el formulario de inscripciÛn sea corto pero con la informaciÛn necesaria:
+Tweets que iniciaron equipos de ciencia colaborativa (Big-Team).
+:::
+
+Twitter u otros medios sociales son una gran manera de medir el inter√©s en iniciar un equipos de ciencia colaborativa. Si obtienes mucho inter√©s, tienes que estar preparado/a para empezar a organizarte r√°pidamente para mantener ese impulso.
+
+## Registrar el inter√©s {#sec-sp-reg-interest}
+
+Puedes crear un r√°pido [formulario de Google](https://docs.google.com/forms/) para registrar el inter√©s en el grupo. De este modo, puedes hacer una lista de todas las personas interesadas para poder contactarlas m√°s adelante si no tienes tiempo de empezar de inmediato. Tambi√©n es una forma de centralizar el reclutamiento para que no tengas que estar pendiente de qui√©n est√° interesado/as en los hilos de Twitter y los correos electr√≥nicos y las publicaciones de Facebook...
+
+Haz que el formulario de inscripci√≥n sea corto pero con la informaci√≥n necesaria:
 
 * Nombre
-* Correo electrÛnico
-* UbicaciÛn/InstituciÛn
+* Correo electr√≥nico
+* Ubicaci√≥n/Instituci√≥n
 * Texto libre para comentarios
 
-TambiÈn puedes hacer algunas preguntas especÌficas. Por ejemplo, en el formulario de interÈs de ManyFaces se preguntaba
+Tambi√©n puedes hacer algunas preguntas espec√≠ficas. Por ejemplo, en el formulario de inter√©s de ManyFaces se preguntaba
 
-øPrefiere hablar por:
+¬øPrefiere hablar por:
 
 - [ ] Chat en vivo (por ejemplo, Zoom)
-- [ ] Chat de texto asÌncrono (por ejemplo, Slack/equipos/doc de Google compartido)
+- [ ] Chat de texto as√≠ncrono (por ejemplo, Slack/equipos/doc de Google compartido)
 
-øQuÈ te interesarÌa construir con un consorcio?
+¬øQu√© te interesar√≠a construir con un consorcio?
 
-- [ ] Bases de datos de estÌmulos
-- [ ] Nuevas colecciones de estÌmulos
-- [ ] Nuevos estÌmulos o protocolos de estudio
+- [ ] Bases de datos de est√≠mulos
+- [ ] Nuevas colecciones de est√≠mulos
+- [ ] Nuevos est√≠mulos o protocolos de estudio
 - [ ] Colaborar en la recogida de datos
 - [ ] Otros...
 
 ## Documento de lluvia de ideas
 
-Algo que funcionÛ muy bien para ManyFaces y el Code Check Club fue iniciar un documento de lluvia de ideas. Esta es una mejor manera de recoger y organizar las ideas que los mensajes de Twitter o del foro. 
+Algo que funcion√≥ muy bien para ManyFaces y el Code Check Club fue iniciar un documento de lluvia de ideas. Esta es una mejor manera de recoger y organizar las ideas que los mensajes de Twitter o del foro. 
 
 * [Lluvia de ideas de ManyFace](https://docs.google.com/document/d/1X6b3am7zwDYXT2-TUR-a85-xG-cdrE8_vz9GICbwAl0/edit)
-* [Lluvia de ideas de la GuÌa de RevisiÛn de CÛdigo](https://docs.google.com/document/d/1cqrRDEYkhtZT9QRruZmUnPPN00VEo0fKV7cEyoluMnU/edit)
+* [Lluvia de ideas de la Gu√≠a de Revisi√≥n de C√≥digo](https://docs.google.com/document/d/1cqrRDEYkhtZT9QRruZmUnPPN00VEo0fKV7cEyoluMnU/edit)
 
-Los [Google Docs](https://docs.google.com/) son un lugar ideal para empezar un documento de lluvia de ideas. SÛlo tienes que crear un documento y asegurarte de actualizar la configuraciÛn de Compartir para que cualquier persona pueda editar (o al menos comentar). 
+Los [Google Docs](https://docs.google.com/) son un lugar ideal para empezar un documento de lluvia de ideas. S√≥lo tienes que crear un documento y asegurarte de actualizar la configuraci√≥n de Compartir para que cualquier persona pueda editar (o al menos comentar). 
 
 ![](images/google-doc-sharing.png){fig-alt="La interfaz de compartir de Google Docs muestra las opciones para Cualquiera con un enlace: Espectador, Comentarista, Editor (marcado)"}
 
 ### Estructura
 
-Yo estructurarÌa el documento de lluvia de ideas con encabezados (en realidad, utiliza los estilos de encabezado para que puedas tener un esquema navegable) asÌ
+Yo estructurar√≠a el documento de lluvia de ideas con encabezados (en realidad, utiliza los estilos de encabezado para que puedas tener un esquema navegable) as√≠
 
-* **PropÛsito**: explicar el propÛsito del documento y cÛmo utilizarlo
-**Anuncios**: reserva un espacio en la parte superior para hacer anuncios o aÒadir tareas
-**Valores fundamentales**: øcu·les son los valores que unen a este grupo?
-**Contribuidores/as**: presÈntate, quÈ aportas al grupo y quÈ esperas obtener de Èl
-* Recursos**: øquÈ pueden aportar los/as miembros potenciales en tÈrminos de tiempo, experiencia, equipo o materiales?
-* Preguntas/objetivos: øcu·les son las preguntas que abordar· el grupo o los objetivos generales?
-**Ideas**: enumera todas tus ideas sobre lo que podrÌa hacer el grupo; ninguna idea es demasiado grande/pequeÒa en esta fase
-* DesafÌos**: øquÈ obst·culos ve la gente para poner en marcha este grupo?
-* OrganizaciÛn**: enumera lo que hay que hacer para poner en marcha el grupo (el resto de esta guÌa deberÌa ayudar a ello)
+* **Prop√≥sito**: explicar el prop√≥sito del documento y c√≥mo utilizarlo
+**Anuncios**: reserva un espacio en la parte superior para hacer anuncios o a√±adir tareas
+**Valores fundamentales**: ¬øcu√°les son los valores que unen a este grupo?
+**Contribuidores/as**: pres√©ntate, qu√© aportas al grupo y qu√© esperas obtener de √©l
+* Recursos**: ¬øqu√© pueden aportar los/as miembros potenciales en t√©rminos de tiempo, experiencia, equipo o materiales?
+* Preguntas/objetivos: ¬øcu√°les son las preguntas que abordar√° el grupo o los objetivos generales?
+**Ideas**: enumera todas tus ideas sobre lo que podr√≠a hacer el grupo; ninguna idea es demasiado grande/peque√±a en esta fase
+* Desaf√≠os**: ¬øqu√© obst√°culos ve la gente para poner en marcha este grupo?
+* Organizaci√≥n**: enumera lo que hay que hacer para poner en marcha el grupo (el resto de esta gu√≠a deber√≠a ayudar a ello)
 
 ### Valores fundamentales
 
-Una lista de valores fundamentales puede ayudar a garantizar que las personas que se unan al grupo tengan objetivos y valores alineados. Puedes empezar utilizando los ejemplos que aparecen a continuaciÛn y pedir al grupo que te ayude a concretarlos.
+Una lista de valores fundamentales puede ayudar a garantizar que las personas que se unan al grupo tengan objetivos y valores alineados. Puedes empezar utilizando los ejemplos que aparecen a continuaci√≥n y pedir al grupo que te ayude a concretarlos.
 
 ::: {style="border: 2px solid purple; padding: 0 1em;"}
 
 #### Valores fundamentales de ManyFaces {-}
 
-* …tica 
-* ProtecciÛn de datos personales
+* √âtica 
+* Protecci√≥n de datos personales
 * Evitar y denunciar el uso inapropiado de la IA/reconocimiento facial
-* Diversidad e inclusiÛn
-* Diversidad de regiÛn, etapa profesional, disciplina, metodologÌa, gÈnero, nacionalidad, etc.
-* No dejar que "los ricos se hagan m·s ricos"
-* Los laboratorios con m·s recursos tienen la responsabilidad de ayudar a los laboratorios e investigadores/as individuales con menos recursos.
+* Diversidad e inclusi√≥n
+* Diversidad de regi√≥n, etapa profesional, disciplina, metodolog√≠a, g√©nero, nacionalidad, etc.
+* No dejar que "los ricos se hagan m√°s ricos"
+* Los laboratorios con m√°s recursos tienen la responsabilidad de ayudar a los laboratorios e investigadores/as individuales con menos recursos.
 * Transparencia
-* Los recursos y los resultados se comparten tan abiertamente como la Ètica lo permite.
+* Los recursos y los resultados se comparten tan abiertamente como la √©tica lo permite.
 * Aunque no todos/as los/as miembros pueden participar en todas las decisiones, el proceso de toma de decisiones debe estar disponible para todas las personas.
 
 :::
@@ -90,30 +99,30 @@ Una lista de valores fundamentales puede ayudar a garantizar que las personas qu
 
 #### Principios de ManyBabies {-}
 
-* **Transparencia**: Todas las decisiones en un proyecto de MB, desde el diseÒo hasta la publicaciÛn, son tan transparentes como sea posible
-**GestiÛn colectiva**: Cuando es posible y factible, las decisiones se toman de forma conjunta y transparente
-**Inclusividad y diversidad**: MB fomenta explÌcitamente los esfuerzos para aumentar la diversidad. Esto incluye solicitudes activas de financiamiento para ayudar a los laboratorios de comunidades poco representadas a participar, esfuerzos de divulgaciÛn y talleres de planificaciÛn
-* **InvestigaciÛn Ètica**: Los proyectos de MB est·n comprometidos con las mejores pr·cticas y los altos est·ndares Èticos
-* **Respeto**: Todos aceptan un cÛdigo de conducta general que garantiza interacciones respetuosas
+* **Transparencia**: Todas las decisiones en un proyecto de MB, desde el dise√±o hasta la publicaci√≥n, son tan transparentes como sea posible
+**Gesti√≥n colectiva**: Cuando es posible y factible, las decisiones se toman de forma conjunta y transparente
+**Inclusividad y diversidad**: MB fomenta expl√≠citamente los esfuerzos para aumentar la diversidad. Esto incluye solicitudes activas de financiamiento para ayudar a los laboratorios de comunidades poco representadas a participar, esfuerzos de divulgaci√≥n y talleres de planificaci√≥n
+* **Investigaci√≥n √©tica**: Los proyectos de MB est√°n comprometidos con las mejores pr√°cticas y los altos est√°ndares √©ticos
+* **Respeto**: Todos aceptan un c√≥digo de conducta general que garantiza interacciones respetuosas
 
 :::
 
 ::: {style="border: 2px solid #009A2A; padding: 0 1em; margin-top: 1em;"}
 
-#### Principios b·sicos de la PSA {-}
+#### Principios b√°sicos de la PSA {-}
 
-* Diversidad e inclusiÛn
+* Diversidad e inclusi√≥n
 * Autoridad descentralizada
 * Transparencia
 * Rigor
-* Apertura a la crÌtica
+* Apertura a la cr√≠tica
 
-Consulte el [sitio web de la PSA](https://psysciacc.org/) para obtener m·s detalles.
+Consulte el [sitio web de la PSA](https://psysciacc.org/) para obtener m√°s detalles.
 
 :::
 
-## Inicio de la organizaciÛn
+## Inicio de la organizaci√≥n
 
-Si las inscripciones y las contribuciones al documento de lluvia de ideas son escasas, no te preocupes. Puede que no sea el momento adecuado para crear este grupo. Organizar un equipo de ciencia colaborativa es demasiado trabajo para una sola persona, asÌ que aseg˙rate de tener un n˙mero importante de miembros entusiastas y un grupo central dedicado.
+Si las inscripciones y las contribuciones al documento de lluvia de ideas son escasas, no te preocupes. Puede que no sea el momento adecuado para crear este grupo. Organizar un equipo de ciencia colaborativa es demasiado trabajo para una sola persona, as√≠ que aseg√∫rate de tener un n√∫mero importante de miembros entusiastas y un grupo central dedicado.
 
-Si muchas personas registran su interÈs en crear un grupo, muchas de ellas contribuyen al documento de lluvia de ideas, y hay un n˙cleo de personas con tiempo, entusiasmo e ideas para ayudar ahora, es el momento de empezar a organizarlo. El siguiente paso es establecer una gobernanza.
+Si muchas personas registran su inter√©s en crear un grupo, muchas de ellas contribuyen al documento de lluvia de ideas, y hay un n√∫cleo de personas con tiempo, entusiasmo e ideas para ayudar ahora, es el momento de empezar a organizarlo. El siguiente paso es establecer una gobernanza.
