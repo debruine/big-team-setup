@@ -12,7 +12,7 @@ Si alguien de tu grupo principal trabaja en una universidad donde puedan crear u
 
 Si no puedes crear una unidad compartida, puedes configurar una nueva cuenta de Google para tu equipo y guardar todos los documentos en una carpeta en esa cuenta [Google Drive](https://drive.google.com/drive/). Los documentos realizados por los/as miembros del equipo deberán dar permiso de editor/a a la cuenta del grupo. Puedes hacer documentos abiertos para que cualquier persona pueda editar, comentar o ver, o restringir el acceso solo a personas específicas. 
 
-![](images/google-doc-sharing.png){fig-alt="GInterfaz para compartir de Google Docs que muestra las opciones para Cualquiera con un enlace: Observador/a, Comentarista, Editor/a (checked)"}
+![](images/google-doc-sharing-sp.png){fig-alt="GInterfaz para compartir de Google Docs que muestra las opciones para Cualquiera con un enlace: Observador/a, Comentarista, Editor/a (checked)"}
 
 
 ## Calendario

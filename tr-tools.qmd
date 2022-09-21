@@ -13,7 +13,7 @@ Eğer temel grubunuzdan biri Google [Shared Drive](https://support.google.com/a/
 Eğer Shared Drive dosyası oluşturulamazsa, grup için yeni bir Google hesabı oluşturulabilirsiniz. Böylelikle, tüm dokümanlar açılan hesabın [Google Drive'ında](https://drive.google.com/drive/) bulunan bir dosyada saklanabilir. Ekip üyeleri tarafından yapılan belgelerin grup hesabına editör izinleri vermesi gerekmektedir. Belgeler herkes tarafından düzenlenmesi, yorumlanması veya görüntülenmesi için açık hale getirilebilir veya belgelerin erişimini yalnızca belirli kişilerle sınırlandırabilirsiniz.
 
 
-![](images/google-doc-sharing.png){fig-alt="Google Docs sharing interface showing the options for Anyone with a link: viewer, Commenter, Editor (checked)"}
+![](images/google-doc-sharing-tr.png){fig-alt="Google Docs sharing interface showing the options for Anyone with a link: viewer, Commenter, Editor (checked)"}
 
 ## Calendar
 
