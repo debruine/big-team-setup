@@ -2,7 +2,8 @@
 
 Mi participación en el Acelerador de la Ciencia Psicológica (Psychological Science Accelerator) comenzó en 2017 con un [tuit de Chris Chartier](https://twitter.com/CRChartier/status/901500936727781376). Y 5 años después, ManyFaces comenzó con [otro](https://twitter.com/LisaDeBruine/status/1486807497608466435).
 
-::: {#fig-tweets .light-mode layout-ncol=2}
+<div class="light-mode">
+::: {#fig-tweets layout-ncol=2}
 
 ![](images/psa-tweet-light.png){fig-alt="Tweet de Chris Chartier: Es hora de empezar a construir un CERN para la ciencia psicológica" style="border:2px solid #009A2A;"}
 
@@ -11,7 +12,10 @@ Mi participación en el Acelerador de la Ciencia Psicológica (Psychological Sci
 Tweets que iniciaron equipos de ciencia colaborativa (Big-Team).
 :::
 
-::: {#fig-tweets .dark-mode layout-ncol=2}
+</div>
+<div class="dark-mode">
+
+::: {#fig-tweets layout-ncol=2}
 
 ![](images/psa-tweet-dark.png){fig-alt="Tweet de Chris Chartier: Es hora de empezar a construir un CERN para la ciencia psicológica" style="border:2px solid #009A2A;"}
 
@@ -19,6 +23,8 @@ Tweets que iniciaron equipos de ciencia colaborativa (Big-Team).
 
 Tweets que iniciaron equipos de ciencia colaborativa (Big-Team).
 :::
+
+</div>
 
 BlueSky u otros medios sociales son una gran manera de medir el interés en iniciar un equipos de ciencia colaborativa. Si obtienes mucho interés, tienes que estar preparado/a para empezar a organizarte rápidamente para mantener ese impulso.
 

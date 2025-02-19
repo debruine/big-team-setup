@@ -2,7 +2,9 @@
 
 Benim Psychological Science Accelerator'a dahil olmam 2017'de [Chris Chartier'ın bir tweet'i](https://twitter.com/CRChartier/status/901500936727781376) ile başladı. Ve 5 yıl sonra, ManyFaces [bir diğeri](https://twitter.com/LisaDeBruine/status/1486807497608466435) ile başladı.
 
-::: {#fig-tweets .light-mode layout-ncol=2}
+<div class="light-mode">
+
+::: {#fig-tweets layout-ncol=2}
 
 ![](images/psa-tweet-light.png){fig-alt="Tweet from Chris Chartier: It's time to begin building a CERN for Psychological Science" style="border:2px solid #009A2A;"}
 
@@ -11,7 +13,11 @@ Benim Psychological Science Accelerator'a dahil olmam 2017'de [Chris Chartier'ı
 Büyük ekip bilimi gruplarını başlatan tweet'ler.
 :::
 
-::: {#fig-tweets-dark .dark-mode layout-ncol=2}
+</div>
+
+<div class="dark-mode">
+
+::: {#fig-tweets-dark layout-ncol=2}
 
 ![](images/psa-tweet-dark.png){fig-alt="Tweet from Chris Chartier: It's time to begin building a CERN for Psychological Science" style="border:2px solid #009A2A;"}
 
@@ -19,6 +25,8 @@ Büyük ekip bilimi gruplarını başlatan tweet'ler.
 
 Büyük ekip bilimi gruplarını başlatan tweet'ler.
 :::
+
+</div>
 
 BlueSky veya diğer sosyal medya platformları büyük ekip bilimi grupları başlatma isteğini ölçmek için çok iyi bir yoldur. Eğer çok ilgi olursa bu ivmeyi korumak için hızlı bir şekilde organize olmaya hazır olmanız gerekir.
 

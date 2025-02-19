@@ -2,7 +2,8 @@
 
 My involvement in the Psychological Science Accelerator started in 2017 with a [tweet from Chris Chartier](https://twitter.com/CRChartier/status/901500936727781376). And 5 years later, ManyFaces started with [another](https://twitter.com/LisaDeBruine/status/1486807497608466435).
 
-::: {#fig-tweets .light-mode layout-ncol=2}
+<div class="light-mode">
+::: {#fig-tweets layout-ncol=2}
 
 ![](images/psa-tweet-light.png){fig-alt="Tweet from Chris Chartier: It's time to begin building a CERN for Psychological Science" style="border:2px solid #009A2A;"}
 
@@ -11,7 +12,11 @@ My involvement in the Psychological Science Accelerator started in 2017 with a [
 Tweets that started big team science groups.
 :::
 
-::: {#fig-tweets-dark .dark-mode layout-ncol=2}
+</div>
+
+<div class="dark-mode">
+
+::: {#fig-tweets-dark layout-ncol=2}
 
 ![](images/psa-tweet-dark.png){fig-alt="Tweet from Chris Chartier: It's time to begin building a CERN for Psychological Science" style="border:2px solid #009A2A;"}
 
@@ -19,6 +24,8 @@ Tweets that started big team science groups.
 
 Tweets that started big team science groups.
 :::
+
+</div>
 
 BlueSky or other social media is a great way to gauge interest in starting a big team science group. If you get a lot of interest, you need to be prepared to start organising quickly to keep that momentum.
 
