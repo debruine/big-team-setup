@@ -73,7 +73,7 @@ Think about how you'll keep track of active versus inactive members. You can mak
 
 Look at some other big team science organisations and figure out what model you want to use for deciding what projects to pursue. If your group is formed around an already well-articulated project, you can skip this step. 
 
-For example, the [Psychological Science Accelerator](https://psysciacc.org/how-we-work/) has formal study selection calls where applications for projects are submitted and then assessed by reviewers and the full membership before the study selection committee chooses the projects that can be run, given the current capacity of the network.
+For example, the [Psychological Science Accelerator](https://psysciacc.org/submit.html) has formal study selection calls where applications for projects are submitted and then assessed by reviewers and the full membership before the study selection committee chooses the projects that can be run, given the current capacity of the network.
 
 ManyBabies uses a formal [project proposal form](https://docs.google.com/document/d/1kbnK2us2Svfcf7X4TAI5YUw3_duUNAQoYINTuuWr1Jw/edit), but does not have specific calls with deadlines. ManyFaces currently has a much less formal process where work projects are proposed in a discussion channel and, once the proposer deems there is enough interest, a working group is formed. 
 
@@ -106,8 +106,8 @@ There are several useful resources for developing a code of conduct:
 
 And here are some useful models for a code of conduct:
 
-* [Psychological Science Accelerator](https://psysciacc.org/code-of-conduct/)
-* [ManyBabies](https://manybabies.github.io/code_conduct/)
+* [Psychological Science Accelerator](https://psysciacc.org/join.html)
+* [ManyBabies](https://manybabies.org/codeofconduct/)
 * [Big Team Science Conference](https://bigteamscienceconference.github.io/codeofconduct/)
 * [Society for the Improvement of Psychological Science](https://improvingpsych.org/sipsinaction/code/)
 * [PsychMAP Facebook Group](https://www.facebook.com/notes/psychmap/how-psychmap-works-please-read-before-joining/301933333516929/)

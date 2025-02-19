@@ -72,7 +72,7 @@ Bir diğer konu ise, aktif olan ve aktif olmayan üyelerin takibinin nasıl yap�
 
 Diğer bazı büyük ekip bilimi organizasyonlarına bakın ve hangi projelerin yürütüleceğine karar vermek için hangi modeli kullanmak istediğinize karar verin. Eğer grubunuzun iyi bir zemine oturtulmuş bir projesi varsa, bu adımı atlayabilirsiniz. 
 
-Örneğin, [Psychological Science Accelerator](https://psysciacc.org/how-we-work/)  resmi bir şekilde çalışma seçim çağrıları yapar. Burada proje başvuruları yapılır ve sonra iletişim ağının mevcut kapasitesi göz önüne alındığında, çalışma seçim komitesi yürütülecek projeleri seçmeden önce projeler eleştirmenler ve tüm üyeler tarafından değerlendirilir.
+Örneğin, [Psychological Science Accelerator](https://psysciacc.org/submit.html)  resmi bir şekilde çalışma seçim çağrıları yapar. Burada proje başvuruları yapılır ve sonra iletişim ağının mevcut kapasitesi göz önüne alındığında, çalışma seçim komitesi yürütülecek projeleri seçmeden önce projeler eleştirmenler ve tüm üyeler tarafından değerlendirilir.
 
 ManyBabies [project proposal form](https://docs.google.com/document/d/1kbnK2us2Svfcf7X4TAI5YUw3_duUNAQoYINTuuWr1Jw/edit), resmi bir proje öneri formu kullanmaktadır ancak son teslim tarihi konusunda belli bir sınırlandırma yoktur. ManyFaces şu anda daha az resmi bir sürece sahip bir uygulamadır. Burada, iş projeleri tartışma kanalları aracılığıyla görüşülür, değerlendilir ve buna göre yeterli ilgi olduğu takdirde çalışma grupları oluşturulabilir.  
 
@@ -104,8 +104,8 @@ Davranış kurallarını geliştirebilmek adına kullanılabilecek kaynaklar:
 
 İletişim ve davranış kuralları geliştirirken kullanılabilecek modeller: 
 
-* [Psychological Science Accelerator](https://psysciacc.org/code-of-conduct/)
-* [ManyBabies](https://manybabies.github.io/code_conduct/)
+* [Psychological Science Accelerator](https://psysciacc.org/join.html)
+* [ManyBabies](https://manybabies.org/codeofconduct/)
 * [Big Team Science Conference](https://bigteamscienceconference.github.io/codeofconduct/)
 * [Society for the Improvement of Psychological Science](https://improvingpsych.org/sipsinaction/code/)
 * [PsychMAP Facebook Group](https://www.facebook.com/notes/psychmap/how-psychmap-works-please-read-before-joining/301933333516929/)

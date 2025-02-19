@@ -60,11 +60,11 @@ Ahora que ha establecido el principal canal de comunicación dentro de su equipo
 
 Esto último puede parecer una tontería, pero resulta molesto y confuso tener diferentes nombres en distintas plataformas porque tu nombre preferido no está disponible en una de ellas. Elige un nombre que probablemente esté disponible en todas las redes sociales que vayas a utilizar, así como en las plataformas de @sec-sp-tools, como Google o GitHub.
 
-Recomiendo que se cree una cuenta en cada una de las  plataformas de redes sociales principales, incluso si no tienes intención de utilizarla mucho, sólo para asegurarte de que nadie más pueda tergiversar tu organización tomando ese nombre. Basta con crear la cuenta e incluir un enlace a tu principal fuente de comunicación (por ejemplo, Twitter o una página web).
+Recomiendo que se cree una cuenta en cada una de las  plataformas de redes sociales principales, incluso si no tienes intención de utilizarla mucho, sólo para asegurarte de que nadie más pueda tergiversar tu organización tomando ese nombre. Basta con crear la cuenta e incluir un enlace a tu principal fuente de comunicación (por ejemplo, BlueSky o una página web).
 
 Puedes configurar la mayoría de estas cuentas utilizando el perfil de Google de tu grupo, lo cual es una buena manera de evitar tener demasiados datos de acceso que recordar. Sin embargo, es posible que también quieras registrarte en un gestor de contraseñas de grupo, como [1Password](https://1password.com/), para hacer un seguimiento de todos los inicios de sesión y compartirlos con un grupo de gestión.
 
-* [Twitter](https://help.twitter.com/en/using-twitter/create-twitter-account) es bueno para compartir anuncios
+* [BlueSky](https://bsky.social) es bueno para compartir anuncios
 * [Facebook Groups](https://www.facebook.com/help/167970719931213) es bueno para debates y involucramiento de la comunidad
 * [Instagram](https://help.instagram.com/182492381886913/) es bueno para compartir imágenes
 * [TikTok](https://www.tiktok.com/signup) es bueno para compartir vídeos cortos y atractivos

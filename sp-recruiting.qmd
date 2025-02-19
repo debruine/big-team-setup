@@ -20,11 +20,11 @@ Tweets que iniciaron equipos de ciencia colaborativa (Big-Team).
 Tweets que iniciaron equipos de ciencia colaborativa (Big-Team).
 :::
 
-Twitter u otros medios sociales son una gran manera de medir el interés en iniciar un equipos de ciencia colaborativa. Si obtienes mucho interés, tienes que estar preparado/a para empezar a organizarte rápidamente para mantener ese impulso.
+BlueSky u otros medios sociales son una gran manera de medir el interés en iniciar un equipos de ciencia colaborativa. Si obtienes mucho interés, tienes que estar preparado/a para empezar a organizarte rápidamente para mantener ese impulso.
 
 ## Registrar el interés {#sec-sp-reg-interest}
 
-Puedes crear un rápido [formulario de Google](https://docs.google.com/forms/) para registrar el interés en el grupo. De este modo, puedes hacer una lista de todas las personas interesadas para poder contactarlas más adelante si no tienes tiempo de empezar de inmediato. También es una forma de centralizar el reclutamiento para que no tengas que estar pendiente de quién está interesado/as en los hilos de Twitter y los correos electrónicos y las publicaciones de Facebook...
+Puedes crear un rápido [formulario de Google](https://docs.google.com/forms/) para registrar el interés en el grupo. De este modo, puedes hacer una lista de todas las personas interesadas para poder contactarlas más adelante si no tienes tiempo de empezar de inmediato. También es una forma de centralizar el reclutamiento para que no tengas que estar pendiente de quién está interesado/as en los hilos de BlueSky y los correos electrónicos y las publicaciones de Facebook...
 
 Haz que el formulario de inscripción sea corto pero con la información necesaria:
 

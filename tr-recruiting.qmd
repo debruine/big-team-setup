@@ -20,11 +20,11 @@ Büyük ekip bilimi gruplarını başlatan tweet'ler.
 Büyük ekip bilimi gruplarını başlatan tweet'ler.
 :::
 
-Twitter veya diğer sosyal medya platformları büyük ekip bilimi grupları başlatma isteğini ölçmek için çok iyi bir yoldur. Eğer çok ilgi olursa bu ivmeyi korumak için hızlı bir şekilde organize olmaya hazır olmanız gerekir.
+BlueSky veya diğer sosyal medya platformları büyük ekip bilimi grupları başlatma isteğini ölçmek için çok iyi bir yoldur. Eğer çok ilgi olursa bu ivmeyi korumak için hızlı bir şekilde organize olmaya hazır olmanız gerekir.
 
 ## İlgilenenleri kaydetme {#sec-tr-reg-interest}
 
-Grupla ilgilenenleri kaydetmek için hızlıca [Google form](https://docs.google.com/forms/) üzerinden bir anket oluşturabilirsiniz. Böylece, eğer hemen başlayacak zamanınız yoksa sonradan iletişime geçmek için, ilgilenen herkesin yer aldığı bir liste oluşturabilirsiniz. Ayrıca, kimlerin Twitter ileti dizileriyle, e-postalarla, Facebook gönderiyle ilgilendiğini takip etmeden üye katılımını merkezileştirmenin de bir yoludur.
+Grupla ilgilenenleri kaydetmek için hızlıca [Google form](https://docs.google.com/forms/) üzerinden bir anket oluşturabilirsiniz. Böylece, eğer hemen başlayacak zamanınız yoksa sonradan iletişime geçmek için, ilgilenen herkesin yer aldığı bir liste oluşturabilirsiniz. Ayrıca, kimlerin BlueSky ileti dizileriyle, e-postalarla, Facebook gönderiyle ilgilendiğini takip etmeden üye katılımını merkezileştirmenin de bir yoludur.
 
 Katılım formunu kısa ve kolay olacak şekilde hazırlayın:
 

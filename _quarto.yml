@@ -1,7 +1,6 @@
 project:
   type: book
   output-dir: docs
-  output-file: "big-team-setup"
   resources:
   - "images/*"
 
@@ -11,7 +10,7 @@ book:
   #description: "Setting up a Big-Team Science project, for the ABRIR workshop series, Increased Representation: A Vision for Inclusive Big-team Science (September 2022)"
   cover-image: images/logo.png
   image: images/logo.png
-  fav-icon: images/favicon.ico
+  favicon: images/favicon.ico
   google-analytics: "G-6NP3MF25W3"
   page-navigation: true
   search: true
@@ -23,14 +22,14 @@ book:
   repo-url: https://github.com/debruine/big-team-setup/
   repo-branch: master
   repo-actions: [edit, issue, source]
-  sharing: [twitter, facebook, linkedin]
+  sharing: [facebook, linkedin]
   page-footer:
     left: "CC-BY 2022, Lisa DeBruine"
     right:
       - icon: github
         href: https://github.com/debruine/big-team-setup
-      - icon: twitter
-        href: https://twitter.com/lisadebruine
+      - text: "![](images/bsky.svg){height='1em'}"
+        href: https://bsky.app/debruine
   chapters:
     - index.qmd
     - part: "English"

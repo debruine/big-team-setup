@@ -60,11 +60,11 @@ Artık ekibinizdeki ana iletişim kanalını kurduğunuza göre, yaptığınız 
 
 Bu sonuncusu aptalca görünebilir, ancak tercih ettiğiniz isim kanalların birinde kullanılabilir olmadığı için farklı kanallarda farklı isimlere sahip olmak can sıkıcı ve kafa karıştırıcıdır. Google veya GitHub gibi @sec-tr-tools 'taki platformların yanı sıra kullanacağınız tüm sosyal medyada kullanılabilir muhtemel bir isim seçin. 
 
-Çok fazla kullanmayı düşünmüyorsanız bile, sırf başka hiç kimsenin bu ismi alarak kuruluşunuzu yanlış tanıtmayacağından emin olmak için büyük sosyal medya platformlarının her birinde bir hesap oluşturmanızı tavsiye ederim. Sadece hesabı oluşturun ve ana bilgi kaynağınıza (ör. Twitter veya bir web sayfası) bir bağlantı ekleyin.
+Çok fazla kullanmayı düşünmüyorsanız bile, sırf başka hiç kimsenin bu ismi alarak kuruluşunuzu yanlış tanıtmayacağından emin olmak için büyük sosyal medya platformlarının her birinde bir hesap oluşturmanızı tavsiye ederim. Sadece hesabı oluşturun ve ana bilgi kaynağınıza (ör. BlueSky veya bir web sayfası) bir bağlantı ekleyin.
 
 Bu hesapların çoğunu grubunuzun Google profilini kullanarak oluşturabilirsiniz; bu, hatırlanacak çok fazla giriş detayından kaçınmanın iyi bir yoludur. Ancak, tüm oturum açmaları takip etmek ve bunları bir yönetim grubuyla paylaşmak için [1Password](https://1password.com/), gibi bir grup şifre yöneticisine kaydolmak da isteyebilirsiniz.
 
-* [Twitter](https://help.twitter.com/en/using-twitter/create-twitter-account) duyuruları paylaşmak için iyidir
+* [BlueSky](https://bsky.social) duyuruları paylaşmak için iyidir
 * [Facebook Groups](https://www.facebook.com/help/167970719931213) tartışmalar ve topluluk katılımı için iyidir
 * [Instagram](https://help.instagram.com/182492381886913/) görüntüleri paylaşmak için iyidir
 * [TikTok](https://www.tiktok.com/signup) kısa, ilgi çekici videolar paylaşmak için iyidir

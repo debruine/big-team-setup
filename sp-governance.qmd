@@ -74,7 +74,7 @@ Piensa en cómo llevarás la cuenta de los/as afiliados/as activos/as e inactivo
 
 Consulta otras organizaciones científicas colaborativas y determina el modelo que quieres utilizar para decidir qué proyectos llevar a cabo. Si tu grupo está formado en torno a un proyecto ya bien articulado, puedes saltarte este paso. 
 
-Por ejemplo, el [Psychological Science Accelerator](https://psysciacc.org/how-we-work/) tiene convocatorias formales de selección de estudios en las que las solicitudes de proyectos se presentan y luego son evaluadas por los revisores/as y por todos/as los/as miembros antes de que un comité de selección de estudios elija los proyectos que pueden llevarse a cabo, dada la capacidad actual de la red.
+Por ejemplo, el [Psychological Science Accelerator](https://psysciacc.org/submit.html) tiene convocatorias formales de selección de estudios en las que las solicitudes de proyectos se presentan y luego son evaluadas por los revisores/as y por todos/as los/as miembros antes de que un comité de selección de estudios elija los proyectos que pueden llevarse a cabo, dada la capacidad actual de la red.
 
 ManyBabies utiliza un [formulario de propuesta de proyecto](https://docs.google.com/document/d/1kbnK2us2Svfcf7X4TAI5YUw3_duUNAQoYINTuuWr1Jw/edit) formal, pero no tiene convocatorias específicas con fechas límite. Actualmente, ManyFaces tiene un proceso mucho menos formal en el que los proyectos de trabajo se proponen en un canal de discusión y, una vez que el proponente considera que hay suficiente interés, se forma un grupo de trabajo. 
 
@@ -106,8 +106,8 @@ Existen varios recursos útiles para elaborar un código de conducta:
 
 Y aquí hay algunos modelos útiles para un código de conducta:
 
-* [Psychological Science Accelerator](https://psysciacc.org/code-of-conduct/)
-* [ManyBabies](https://manybabies.github.io/code_conduct/)
+* [Psychological Science Accelerator](https://psysciacc.org/join.html)
+* [ManyBabies](https://manybabies.org/codeofconduct/)
 * [Big Team Science Conference](https://bigteamscienceconference.github.io/codeofconduct/)
 * [Society for the Improvement of Psychological Science](https://improvingpsych.org/sipsinaction/code/)
 * [PsychMAP Facebook Group](https://www.facebook.com/notes/psychmap/how-psychmap-works-please-read-before-joining/301933333516929/)

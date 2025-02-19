@@ -60,11 +60,12 @@ Now that you've set up the main channel of communication within your team, you m
 
 This last one might seem silly, but it's annoying and confusing to have different names across different platforms because your preferred name wasn't available on one. Choose a name that is likely to be available on all social media you'll use, as well as the platforms in @sec-en-tools, such as Google or GitHub.
 
-I'd recommend setting up an account at each of the major social media platforms, even if you don't intend on using it much, just to make sure no one else can misrepresent your organisation by taking that name. Just set up the account and include a link to your main source of information (e.g., Twitter or a webpage).
+I'd recommend setting up an account at each of the major social media platforms, even if you don't intend on using it much, just to make sure no one else can misrepresent your organisation by taking that name. Just set up the account and include a link to your main source of information (e.g., BlueSky or a webpage).
 
 You can set up most of these account using your group's Google profile, which is a good way to avoid having too many login details to remember. However, you may also want to sign up for a group password manager, such as [1Password](https://1password.com/), to keep track of all the logins and share them with a management group.
 
-* [Twitter](https://help.twitter.com/en/using-twitter/create-twitter-account) is good for sharing announcements
+* [BlueSky](https://bsky.social) is good for announcements
+* Twitter/X is not reputable social media site anymore 
 * [Facebook Groups](https://www.facebook.com/help/167970719931213) are good for discussions and community engagement
 * [Instagram](https://help.instagram.com/182492381886913/) is good for sharing images
 * [TikTok](https://www.tiktok.com/signup) is good for sharing short, engaging videos

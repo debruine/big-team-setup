@@ -20,11 +20,11 @@ Tweets that started big team science groups.
 Tweets that started big team science groups.
 :::
 
-Twitter or other social media is a great way to gauge interest in starting a big team science group. If you get a lot of interest, you need to be prepared to start organising quickly to keep that momentum.
+BlueSky or other social media is a great way to gauge interest in starting a big team science group. If you get a lot of interest, you need to be prepared to start organising quickly to keep that momentum.
 
 ## Registering interest {#sec-en-reg-interest}
 
-You can set up a quick [Google form](https://docs.google.com/forms/) to register interest in the group. That way, you can make a list of everyone who is interested in order to contact them later if you don't have the time to start right away. It is also a way to centralise recruitment so you don't have keep track of who is interested in twitter threads and emails and facebook posts...
+You can set up a quick [Google form](https://docs.google.com/forms/) to register interest in the group. That way, you can make a list of everyone who is interested in order to contact them later if you don't have the time to start right away. It is also a way to centralise recruitment so you don't have keep track of who is interested in BlueSky threads and emails and facebook posts...
 
 Make the signup form short and sweet:
 
