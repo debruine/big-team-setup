@@ -55,6 +55,8 @@ The [PSA](https://psysciacc.org/)'s website is made with [WordPress](https://wor
 
 One downside is that this type of dynamic website can be more complex to host, but you can start with free hosting at WordPress.com.
 
+Update: the PSA website is now made in quarto. See the [github repository](https://github.com/psysciacc/psysciacc.github.io) to see the code.
+
 ## Hosts
 
 Your website needs to be hosted somewhere. GitHub Pages and Netlify are two of the best free options. Both allow you to use a custom domain name or a domain name like myteam.github.io or myteam.netlify.com.
@@ -82,4 +84,4 @@ One nice thing about GitHub Pages is that each project can have its own reposito
 
 ## Domain Name {#sec-en-domain}
 
-It's a good idea to register a domain name for your group, but don't get suckered into buying an expensive .com name. Go to [Google Domains](https://domains.google/) (or your favourite domain registrar) and type in the name you're using for social media. They will show you all of the domain endings that are available for that name and their prices. The .info domain is usually about £10 per year, but there are hundreds of options (.tires is bizarrely expensive).
+It's a good idea to register a domain name for your group, but don't get suckered into buying an expensive .com name. Go to [GoDaddy](https://www.godaddy.com) (or your favourite domain registrar) and type in the name you're using for social media. They will show you all of the domain endings that are available for that name and their prices. The .info domain is usually about £10 per year, but there are hundreds of options (.tires is bizarrely expensive).

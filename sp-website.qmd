@@ -79,4 +79,4 @@ Un aspecto positivo de GitHub Pages es que cada proyecto puede tener su propio r
 
 ## Nombre de dominio {#sec-sp-domain}
 
-Es una buena idea registrar un nombre de dominio para tu grupo, pero no te dejes engañar comprando un nombre caro  .com. Ve a [Google Domains](https://domains.google/) (o a tu registrador de dominios favorito) y escribe el nombre que vas a utilizar para las redes sociales. Te mostrarán todas las terminaciones de dominio disponibles para ese nombre y sus precios. El dominio .info suele costar unos 10 euros al año, pero hay cientos de opciones (.tires es extrañamente caro).
+Es una buena idea registrar un nombre de dominio para tu grupo, pero no te dejes engañar comprando un nombre caro  .com. Ve a [GoDaddy](https://www.godaddy.com) (o a tu registrador de dominios favorito) y escribe el nombre que vas a utilizar para las redes sociales. Te mostrarán todas las terminaciones de dominio disponibles para ese nombre y sus precios. El dominio .info suele costar unos 10 euros al año, pero hay cientos de opciones (.tires es extrañamente caro).

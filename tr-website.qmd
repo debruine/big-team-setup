@@ -81,5 +81,5 @@ GitHub Pages ile ilgili güzel bir nokta, her projenin kendi deposuna sahip olma
 
 ## Alan Adı {#sec-tr-domain}
 
-Grubunuz için bir alan adı kaydetmek iyi bir fikirdir, ancak pahalı bir .com adı satın almaya kendinizi kaptırmamanız tavsiye edilir. [Google Domains](https://domains.google/) kullanarak (veya favori alan adı yazmanızı) ve sosyal medya için kullandığınız adı yazabilirsiniz. Bu site size bu ad için kullanılabilen tüm alan uzantılarını ve fiyatlarını gösterir.".info" alan adı genellikle yılda yaklaşık 10 sterlindir, ancak başka yüzlerce seçenek bulunmaktadır.
+Grubunuz için bir alan adı kaydetmek iyi bir fikirdir, ancak pahalı bir .com adı satın almaya kendinizi kaptırmamanız tavsiye edilir. [GoDaddy](https://www.godaddy.com) kullanarak (veya favori alan adı yazmanızı) ve sosyal medya için kullandığınız adı yazabilirsiniz. Bu site size bu ad için kullanılabilen tüm alan uzantılarını ve fiyatlarını gösterir.".info" alan adı genellikle yılda yaklaşık 10 sterlindir, ancak başka yüzlerce seçenek bulunmaktadır.
 

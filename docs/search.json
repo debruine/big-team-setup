@@ -278,7 +278,7 @@
     "href": "en-website.html#construction",
     "title": "5  Website",
     "section": "5.3 Construction",
-    "text": "5.3 Construction\nThere are many, many ways to create a website, but I’ll assume if you’re looking at this guide, you don’t have a lot of experience. The options below are fairly straightforward ways to create an organisation’s website.\n\n5.3.1 Jeckyll\nManyBabies has a website powered by BeautifulJeckyll and hosted on GitHub Pages. If you have a github account, it’s very easy to set up the default and start tinkering.\n\n\n5.3.2 Hugo\nHugo is an open-source website generator. If you have experience with R, you can make a Hugo website using Quarto or Blogdown.\nHugo has a lot of themes for websites. Academic is a popular theme with multilingual support. Hugo sites are good if you want to host a blog and take advantage of features that track post topics and engagement.\n\n\n5.3.3 WordPress\nThe PSA’s website is made with WordPress. This option requires no coding experience and is easier for multiple people to manage. There are many themes for customising your site.\nOne downside is that this type of dynamic website can be more complex to host, but you can start with free hosting at WordPress.com.",
+    "text": "5.3 Construction\nThere are many, many ways to create a website, but I’ll assume if you’re looking at this guide, you don’t have a lot of experience. The options below are fairly straightforward ways to create an organisation’s website.\n\n5.3.1 Jeckyll\nManyBabies has a website powered by BeautifulJeckyll and hosted on GitHub Pages. If you have a github account, it’s very easy to set up the default and start tinkering.\n\n\n5.3.2 Hugo\nHugo is an open-source website generator. If you have experience with R, you can make a Hugo website using Quarto or Blogdown.\nHugo has a lot of themes for websites. Academic is a popular theme with multilingual support. Hugo sites are good if you want to host a blog and take advantage of features that track post topics and engagement.\n\n\n5.3.3 WordPress\nThe PSA’s website is made with WordPress. This option requires no coding experience and is easier for multiple people to manage. There are many themes for customising your site.\nOne downside is that this type of dynamic website can be more complex to host, but you can start with free hosting at WordPress.com.\nUpdate: the PSA website is now made in quarto. See the github repository to see the code.",
     "crumbs": [
       "English",
       "<span class='chapter-number'>5</span>  <span class='chapter-title'>Website</span>"
@@ -300,7 +300,7 @@
     "href": "en-website.html#sec-en-domain",
     "title": "5  Website",
     "section": "5.5 Domain Name",
-    "text": "5.5 Domain Name\nIt’s a good idea to register a domain name for your group, but don’t get suckered into buying an expensive .com name. Go to Google Domains (or your favourite domain registrar) and type in the name you’re using for social media. They will show you all of the domain endings that are available for that name and their prices. The .info domain is usually about £10 per year, but there are hundreds of options (.tires is bizarrely expensive).",
+    "text": "5.5 Domain Name\nIt’s a good idea to register a domain name for your group, but don’t get suckered into buying an expensive .com name. Go to GoDaddy (or your favourite domain registrar) and type in the name you’re using for social media. They will show you all of the domain endings that are available for that name and their prices. The .info domain is usually about £10 per year, but there are hundreds of options (.tires is bizarrely expensive).",
     "crumbs": [
       "English",
       "<span class='chapter-number'>5</span>  <span class='chapter-title'>Website</span>"
@@ -597,7 +597,7 @@
     "href": "sp-website.html#sec-sp-domain",
     "title": "10  Página web",
     "section": "10.5 Nombre de dominio",
-    "text": "10.5 Nombre de dominio\nEs una buena idea registrar un nombre de dominio para tu grupo, pero no te dejes engañar comprando un nombre caro .com. Ve a Google Domains (o a tu registrador de dominios favorito) y escribe el nombre que vas a utilizar para las redes sociales. Te mostrarán todas las terminaciones de dominio disponibles para ese nombre y sus precios. El dominio .info suele costar unos 10 euros al año, pero hay cientos de opciones (.tires es extrañamente caro).",
+    "text": "10.5 Nombre de dominio\nEs una buena idea registrar un nombre de dominio para tu grupo, pero no te dejes engañar comprando un nombre caro .com. Ve a GoDaddy (o a tu registrador de dominios favorito) y escribe el nombre que vas a utilizar para las redes sociales. Te mostrarán todas las terminaciones de dominio disponibles para ese nombre y sus precios. El dominio .info suele costar unos 10 euros al año, pero hay cientos de opciones (.tires es extrañamente caro).",
     "crumbs": [
       "Español",
       "<span class='chapter-number'>10</span>  <span class='chapter-title'>Página web</span>"
@@ -894,7 +894,7 @@
     "href": "tr-website.html#sec-tr-domain",
     "title": "15  Web site",
     "section": "15.5 Alan Adı",
-    "text": "15.5 Alan Adı\nGrubunuz için bir alan adı kaydetmek iyi bir fikirdir, ancak pahalı bir .com adı satın almaya kendinizi kaptırmamanız tavsiye edilir. Google Domains kullanarak (veya favori alan adı yazmanızı) ve sosyal medya için kullandığınız adı yazabilirsiniz. Bu site size bu ad için kullanılabilen tüm alan uzantılarını ve fiyatlarını gösterir.”.info” alan adı genellikle yılda yaklaşık 10 sterlindir, ancak başka yüzlerce seçenek bulunmaktadır.",
+    "text": "15.5 Alan Adı\nGrubunuz için bir alan adı kaydetmek iyi bir fikirdir, ancak pahalı bir .com adı satın almaya kendinizi kaptırmamanız tavsiye edilir. GoDaddy kullanarak (veya favori alan adı yazmanızı) ve sosyal medya için kullandığınız adı yazabilirsiniz. Bu site size bu ad için kullanılabilen tüm alan uzantılarını ve fiyatlarını gösterir.”.info” alan adı genellikle yılda yaklaşık 10 sterlindir, ancak başka yüzlerce seçenek bulunmaktadır.",
     "crumbs": [
       "Türk",
       "<span class='chapter-number'>15</span>  <span class='chapter-title'>Web site</span>"
