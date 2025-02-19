@@ -241,6 +241,17 @@
     ]
   },
   {
+    "objectID": "en-tools.html#staple",
+    "href": "en-tools.html#staple",
+    "title": "4  Tools for Collaboration",
+    "section": "4.7 STAPLE",
+    "text": "4.7 STAPLE\n(Updated in 2025)\nScience Tracking Across the Project Lifespan is a project headed by Erin Buchanan of the Psychological Science Accelerator. STAPLE is being developed to be a science focused project management tool that not only helps with the unique challenges of project management of research but includes open and transparent documentation of data and metadata.",
+    "crumbs": [
+      "English",
+      "<span class='chapter-number'>4</span>  <span class='chapter-title'>Tools for Collaboration</span>"
+    ]
+  },
+  {
     "objectID": "en-website.html",
     "href": "en-website.html",
     "title": "5  Website",
@@ -538,6 +549,17 @@
     ]
   },
   {
+    "objectID": "sp-tools.html#staple",
+    "href": "sp-tools.html#staple",
+    "title": "9  Herramientas para la Colaboración",
+    "section": "9.7 STAPLE",
+    "text": "9.7 STAPLE\n(Updated in 2025)\nScience Tracking Across the Project Lifespan is a project headed by Erin Buchanan of the Psychological Science Accelerator. STAPLE is being developed to be a science focused project management tool that not only helps with the unique challenges of project management of research but includes open and transparent documentation of data and metadata.",
+    "crumbs": [
+      "Español",
+      "<span class='chapter-number'>9</span>  <span class='chapter-title'>Herramientas para la Colaboración</span>"
+    ]
+  },
+  {
     "objectID": "sp-website.html",
     "href": "sp-website.html",
     "title": "10  Página web",
@@ -829,6 +851,17 @@
     "title": "14  İş birliği için Araçlar",
     "section": "14.6 Zenodo",
     "text": "14.6 Zenodo\nZenodo kodlama projelerine DOI vermek için harika bir araştırma deposudur (GitHub entegrasyonuna sahiptir). Biz PsyTeachR olarak kitap serisi için Zenodo’yu kullanıyoruz. Kuruluşunuzun çıktılarını düzenlemek için Zenodo’da bir Topluluk oluşturabilirsiniz.",
+    "crumbs": [
+      "Türk",
+      "<span class='chapter-number'>14</span>  <span class='chapter-title'>İş birliği için Araçlar</span>"
+    ]
+  },
+  {
+    "objectID": "tr-tools.html#staple",
+    "href": "tr-tools.html#staple",
+    "title": "14  İş birliği için Araçlar",
+    "section": "14.7 STAPLE",
+    "text": "14.7 STAPLE\n(Updated in 2025)\nScience Tracking Across the Project Lifespan is a project headed by Erin Buchanan of the Psychological Science Accelerator. STAPLE is being developed to be a science focused project management tool that not only helps with the unique challenges of project management of research but includes open and transparent documentation of data and metadata.",
     "crumbs": [
       "Türk",
       "<span class='chapter-number'>14</span>  <span class='chapter-title'>İş birliği için Araçlar</span>"

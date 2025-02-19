@@ -49,3 +49,10 @@ GitHub ayrıca kuruluşunuz ve projelerinizin web siteleri için mükemmel bir s
 ## Zenodo
 
 [Zenodo](https://zenodo.org/) kodlama projelerine DOI vermek için harika bir araştırma deposudur (GitHub entegrasyonuna sahiptir). Biz [PsyTeachR](https://psyteachr.github.io) olarak kitap serisi için Zenodo'yu kullanıyoruz. Kuruluşunuzun çıktılarını düzenlemek için Zenodo'da bir [Topluluk](https://zenodo.org/communities/) oluşturabilirsiniz.
+
+
+## STAPLE
+
+(Updated in 2025)
+
+[Science Tracking Across the Project Lifespan](https://staple.science/) is a project headed by Erin Buchanan of the Psychological Science Accelerator. STAPLE is being developed to be a science focused project management tool that not only helps with the unique challenges of project management of research but includes open and transparent documentation of data and metadata.

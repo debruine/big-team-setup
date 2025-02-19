@@ -48,3 +48,10 @@ GitHub también es un excelente lugar para alojar sitios web para su organizaci�
 ## Zenodo
 
 [Zenodo](https://zenodo.org/) es un repositorio de investigación que es ideal para dar DOIs a proyectos de codificación (tiene integración con GitHub). Nosotros usamos Zenodo para la serie de libros [PsyTeachR](https://psyteachr.github.io). Puedes hacer una [Comunidad](https://zenodo.org/communities/) en Zenodo para seleccionar los resultados de su organización. 
+
+
+## STAPLE
+
+(Updated in 2025)
+
+[Science Tracking Across the Project Lifespan](https://staple.science/) is a project headed by Erin Buchanan of the Psychological Science Accelerator. STAPLE is being developed to be a science focused project management tool that not only helps with the unique challenges of project management of research but includes open and transparent documentation of data and metadata.
